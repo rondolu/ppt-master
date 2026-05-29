@@ -1,0 +1,1017 @@
+{
+  "template_file": "C:\\Users\\00905847\\ppt-master-main\\ppt-master-main\\projects\\2026 DataEco PPT Template 簡約版.pptx",
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5
+  },
+  "master_styles": {
+    "color_scheme": {
+      "scheme_name": "Office",
+      "dk1": "000000",
+      "lt1": "FFFFFF",
+      "dk2": "44546A",
+      "lt2": "E7E6E6",
+      "accent1": "4472C4",
+      "accent2": "ED7D31",
+      "accent3": "A5A5A5",
+      "accent4": "FFC000",
+      "accent5": "5B9BD5",
+      "accent6": "70AD47",
+      "hlink": "0563C1",
+      "folHlink": "954F72"
+    },
+    "font_scheme": {
+      "scheme_name": "Office",
+      "major_font": "Calibri Light",
+      "major_font_ea": "",
+      "minor_font": "Calibri",
+      "minor_font_ea": ""
+    }
+  },
+  "master_shapes": [],
+  "layouts": [
+    {
+      "index": 0,
+      "name": "標題投影片",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "CENTER_TITLE",
+          "position": {
+            "left_inches": 1.667,
+            "top_inches": 1.227,
+            "width_inches": 10.0,
+            "height_inches": 2.611
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "SUBTITLE",
+          "position": {
+            "left_inches": 1.667,
+            "top_inches": 3.939,
+            "width_inches": 10.0,
+            "height_inches": 1.811
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "center_title": 1,
+        "subtitle": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 1,
+      "name": "標題及內容",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 0.399,
+            "width_inches": 11.5,
+            "height_inches": 1.45
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 1.997,
+            "width_inches": 11.5,
+            "height_inches": 4.759
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "object": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 2,
+      "name": "章節標題",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.91,
+            "top_inches": 1.87,
+            "width_inches": 11.5,
+            "height_inches": 3.12
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "position": {
+            "left_inches": 0.91,
+            "top_inches": 5.019,
+            "width_inches": 11.5,
+            "height_inches": 1.641
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 3,
+      "name": "兩個內容",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 0.399,
+            "width_inches": 11.5,
+            "height_inches": 1.45
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 1.997,
+            "width_inches": 5.667,
+            "height_inches": 4.759
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 2,
+          "type": "OBJECT",
+          "position": {
+            "left_inches": 6.75,
+            "top_inches": 1.997,
+            "width_inches": 5.667,
+            "height_inches": 4.759
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "object": 2,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 4,
+      "name": "比較",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 0.399,
+            "width_inches": 11.5,
+            "height_inches": 1.45
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 1.839,
+            "width_inches": 5.641,
+            "height_inches": 0.901
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 2,
+          "type": "OBJECT",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 2.74,
+            "width_inches": 5.641,
+            "height_inches": 4.03
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 3,
+          "type": "BODY",
+          "position": {
+            "left_inches": 6.75,
+            "top_inches": 1.839,
+            "width_inches": 5.668,
+            "height_inches": 0.901
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 4,
+          "type": "OBJECT",
+          "position": {
+            "left_inches": 6.75,
+            "top_inches": 2.74,
+            "width_inches": 5.668,
+            "height_inches": 4.03
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "body": 2,
+        "object": 2,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 5,
+      "name": "只有標題",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 0.399,
+            "width_inches": 11.5,
+            "height_inches": 1.45
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 6,
+      "name": "空白",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 7,
+      "name": "含輔助字幕的內容",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 0.5,
+            "width_inches": 4.3,
+            "height_inches": 1.75
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "OBJECT",
+          "position": {
+            "left_inches": 5.668,
+            "top_inches": 1.08,
+            "width_inches": 6.75,
+            "height_inches": 5.33
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 2,
+          "type": "BODY",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 2.25,
+            "width_inches": 4.3,
+            "height_inches": 4.168
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "object": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 8,
+      "name": "含輔助字幕的圖片",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 0.5,
+            "width_inches": 4.3,
+            "height_inches": 1.75
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "PICTURE",
+          "position": {
+            "left_inches": 5.668,
+            "top_inches": 1.08,
+            "width_inches": 6.75,
+            "height_inches": 5.33
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 2,
+          "type": "BODY",
+          "position": {
+            "left_inches": 0.918,
+            "top_inches": 2.25,
+            "width_inches": 4.3,
+            "height_inches": 4.168
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "picture": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 9,
+      "name": "標題及直排文字",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 0.399,
+            "width_inches": 11.5,
+            "height_inches": 1.45
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 1.997,
+            "width_inches": 11.5,
+            "height_inches": 4.759
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 10,
+      "name": "直排標題及文字",
+      "category": "content",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE",
+          "position": {
+            "left_inches": 9.542,
+            "top_inches": 0.399,
+            "width_inches": 2.875,
+            "height_inches": 6.356
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 0.399,
+            "width_inches": 8.458,
+            "height_inches": 6.356
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 10,
+          "type": "DATE",
+          "position": {
+            "left_inches": 0.917,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 11,
+          "type": "FOOTER",
+          "position": {
+            "left_inches": 4.417,
+            "top_inches": 6.951,
+            "width_inches": 4.5,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        },
+        {
+          "idx": 12,
+          "type": "SLIDE_NUMBER",
+          "position": {
+            "left_inches": 9.417,
+            "top_inches": 6.951,
+            "width_inches": 3.0,
+            "height_inches": 0.399
+          },
+          "default_paragraph": {
+            "level": 0
+          }
+        }
+      ],
+      "other_shapes": [],
+      "signature": {
+        "title": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    }
+  ],
+  "signature_lookup": {
+    "center_title:1_date:1_footer:1_slide_number:1_subtitle:1": [
+      {
+        "index": 0,
+        "name": "標題投影片"
+      }
+    ],
+    "date:1_footer:1_object:1_slide_number:1_title:1": [
+      {
+        "index": 1,
+        "name": "標題及內容"
+      }
+    ],
+    "body:1_date:1_footer:1_slide_number:1_title:1": [
+      {
+        "index": 2,
+        "name": "章節標題"
+      },
+      {
+        "index": 9,
+        "name": "標題及直排文字"
+      },
+      {
+        "index": 10,
+        "name": "直排標題及文字"
+      }
+    ],
+    "date:1_footer:1_object:2_slide_number:1_title:1": [
+      {
+        "index": 3,
+        "name": "兩個內容"
+      }
+    ],
+    "body:2_date:1_footer:1_object:2_slide_number:1_title:1": [
+      {
+        "index": 4,
+        "name": "比較"
+      }
+    ],
+    "date:1_footer:1_slide_number:1_title:1": [
+      {
+        "index": 5,
+        "name": "只有標題"
+      }
+    ],
+    "date:1_footer:1_slide_number:1": [
+      {
+        "index": 6,
+        "name": "空白"
+      }
+    ],
+    "body:1_date:1_footer:1_object:1_slide_number:1_title:1": [
+      {
+        "index": 7,
+        "name": "含輔助字幕的內容"
+      }
+    ],
+    "body:1_date:1_footer:1_picture:1_slide_number:1_title:1": [
+      {
+        "index": 8,
+        "name": "含輔助字幕的圖片"
+      }
+    ]
+  }
+}

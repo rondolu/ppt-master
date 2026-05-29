@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="heroSidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+</defs>
+<g id="background-hero">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#heroSidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="hero-label">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">WHY IT MATTERS</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">為什麼值得關注</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">真正左右效率與品質的，不只是模型能力，而是協作規則是否足夠精確。</text>
+</g>
+<g id="hero-main-card">
+<rect x="170" y="232" width="580" height="330" rx="22" fill="#FFFFFF" stroke="#D9D9D9" />
+<rect x="170" y="232" width="580" height="12" rx="6" fill="url(#bandGradient)" />
+<text fill="#111827" text-anchor="start" font-size="36" font-family="Microsoft JhengHei, Arial, sans-serif" font-weight="bold" xml:space="preserve" x="208" y="318">很多團隊導入 AI 後，</text><text fill="#111827" text-anchor="start" font-size="36" font-family="Microsoft JhengHei, Arial, sans-serif" font-weight="bold" xml:space="preserve" x="208" y="368">先比較模型夠不夠聰明、</text><text fill="#111827" text-anchor="start" font-size="36" font-family="Microsoft JhengHei, Arial, sans-serif" font-weight="bold" xml:space="preserve" x="208" y="418">卻忽略關鍵其實是規則</text><text fill="#111827" text-anchor="start" font-size="36" font-family="Microsoft JhengHei, Arial, sans-serif" font-weight="bold" xml:space="preserve" x="208" y="468">是否清楚。</text><rect x="208" y="500" width="260" height="28" rx="14" fill="url(#bandGradient)" />
+<text x="338" y="519" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">規則不清，錯誤就會被延後結帳</text>
+</g>
+<g id="hero-side-note">
+<rect x="790" y="232" width="320" height="330" rx="22" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="822" y="286" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="22" fill="#111827" font-weight="bold">如果沒有規則...</text>
+<text fill="#111827" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="822" y="330">‧ AI 會自行補完需求與假設</text><text fill="#111827" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="822" y="362">‧ 問題會被拖到 review 與維護階段才爆出來</text><text fill="#111827" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="822" y="394">‧ 表面像加速，實際是在延後付出成本</text><line x1="750" y1="398" x2="790" y2="398" fill="none" stroke="#00AA64" stroke-width="2.5" stroke-dasharray="4 4" />
+<circle cx="790" cy="398" r="6" fill="#00AA64" />
+</g>
+<g id="hero-takeaway-card">
+<rect x="170" y="590" width="940" height="54" rx="18" fill="url(#coreGradient)" />
+<text x="640" y="625" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold">這不是工具選型問題，而是人機協作設計問題。</text>
+</g>
+</svg>

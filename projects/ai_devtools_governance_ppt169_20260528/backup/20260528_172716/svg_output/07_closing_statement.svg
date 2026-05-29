@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="closingSidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-closing">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#closingSidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="closing-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">CLOSING</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">結語</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">真正可規模化的能力，來自清楚規則、可驗證結果，以及共同的修改紀律。</text>
+</g>
+<g id="closing-main-card">
+<rect x="170" y="236" width="940" height="202" rx="22" fill="#FFFFFF" stroke="#D9D9D9" />
+<rect x="170" y="236" width="940" height="12" rx="6" fill="url(#signalGradient)" />
+<text x="208" y="306" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">
+<tspan x="208" dy="0">可規模化的 AI 開發流程，</tspan>
+<tspan x="208" dy="48">不是建立在更強的自動化幻覺上，</tspan>
+<tspan x="208" dy="48">而是建立在更明確的規則、驗證與邊界上。</tspan>
+</text>
+</g>
+<g id="closing-pill-1">
+<rect x="170" y="472" width="284" height="110" rx="20" fill="url(#bandGradient)" />
+<text x="198" y="500" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">RULES</text>
+<text x="198" y="540" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold">規則</text>
+<text x="198" y="566" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#FFFFFF">先講清楚 AI 能做什麼、不能做什麼。</text>
+</g>
+<g id="closing-pill-2">
+<rect x="498" y="472" width="284" height="110" rx="20" fill="url(#coreGradient)" />
+<text x="526" y="500" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">VERIFICATION</text>
+<text x="526" y="540" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold">驗證</text>
+<text x="526" y="566" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#FFFFFF">先定義如何檢查，才知道何時算完成。</text>
+</g>
+<g id="closing-pill-3">
+<rect x="826" y="472" width="284" height="110" rx="20" fill="#009056" />
+<text x="854" y="500" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">BOUNDARIES</text>
+<text x="854" y="540" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold">邊界</text>
+<text x="854" y="566" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#FFFFFF">先守住修改範圍，AI 才能被持續管理。</text>
+</g>
+<g id="closing-footer">
+<text x="170" y="650" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="20" fill="#111827" font-weight="bold">Use AI well, not just often. Rules turn tools into capability.</text>
+<image href="../templates/images/reference_import_assets/image3.png" x="930" y="632" width="174" height="43" preserveAspectRatio="none" />
+</g>
+</svg>

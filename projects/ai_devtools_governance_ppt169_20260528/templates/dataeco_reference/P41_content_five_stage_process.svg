@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="-0.0704" y1="0.6006" x2="1.0704" y2="0.3994"><stop offset="0.06" stop-color="#9AE992"/><stop offset="0.4" stop-color="#6EDAA8"/><stop offset="1" stop-color="#00AA64"/></linearGradient></defs><image href="../images/reference_import_assets/image20.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="Google Shape;517;p14">
+<rect x="168.27" y="70.75" width="373.72" height="103.53" fill="none" stroke="none"/>
+<text x="177.87" y="100.48" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="29.33" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="29.33" font-weight="bold">TITLE</tspan></text>
+</g>
+<g id="shape-5" data-name="Group 10">
+<g id="shape-6" data-name="Freeform 256">
+<path d="M 261.42 327.95 L 261.42 327.95 L 263.64 323.01 L 266.11 317.58 L 268.58 312.39 L 271.55 307.21 L 274.51 302.52 L 277.72 297.58 L 280.94 292.89 L 284.39 288.44 L 287.85 283.75 L 291.81 279.8 L 296.01 275.6 L 299.71 271.4 L 303.91 267.45 L 308.36 263.75 L 312.81 260.05 L 317.75 256.59 L 322.2 253.38 L 327.39 250.17 L 332.08 247.45 L 337.27 244.49 L 342.46 242.02 L 347.89 239.3 L 353.33 237.08 L 358.77 235.11 L 364.2 233.38 L 369.88 231.65 L 375.57 230.17 L 381.5 228.69 L 387.43 227.7 L 393.6 226.96 L 399.78 226.22 L 405.71 225.97 L 443.51 195.84 L 413.86 163.99 L 404.72 164.49 L 396.07 164.73 L 387.18 165.72 L 378.78 166.95 L 370.13 168.19 L 361.98 170.16 L 353.58 172.14 L 345.67 174.61 L 337.52 177.33 L 329.86 180.04 L 322.2 183.25 L 314.54 186.96 L 307.13 190.66 L 299.71 194.61 L 292.8 199.05 L 285.88 203.5 L 279.21 208.19 L 272.53 213.13 L 266.11 218.32 L 259.93 223.75 L 254 229.43 L 248.57 235.11 L 242.64 241.28 L 237.7 247.7 L 232.51 254.12 L 227.57 260.79 L 223.12 267.45 L 218.67 274.61 L 214.47 281.53 L 210.77 288.94 L 207.06 296.34 L 204.09 304 L 242.64 285.48 L 261.42 327.95 Z" fill="#009056" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-7" data-name="Freeform 257">
+<path d="M 415.38 226.07 L 415.38 226.07 L 421.79 226.07 L 428.45 226.56 L 434.87 227.3 L 441.28 228.29 L 447.69 229.28 L 453.86 230.76 L 459.78 232.49 L 465.95 234.22 L 471.62 236.19 L 477.79 238.42 L 483.21 241.13 L 488.89 243.6 L 494.31 246.81 L 499.49 249.77 L 504.92 253.23 L 510.1 256.44 L 514.78 260.15 L 519.72 264.1 L 524.16 268.05 L 528.6 272 L 533.04 276.69 L 537.23 281.14 L 541.18 285.83 L 544.88 290.77 L 548.58 295.46 L 552.03 300.65 L 555.24 305.83 L 558.44 311.26 L 561.16 316.7 L 563.87 322.13 L 566.09 327.81 L 568.31 333.49 L 607.28 362.38 L 631.21 325.59 L 628.5 317.19 L 625.54 308.8 L 622.33 300.89 L 618.38 292.99 L 614.68 284.84 L 610.49 277.43 L 606.05 269.78 L 601.12 262.86 L 596.18 255.7 L 591 248.79 L 585.33 242.12 L 579.41 235.7 L 573.49 229.52 L 567.32 223.35 L 560.66 217.67 L 554 212.24 L 547.1 207.05 L 539.94 202.36 L 532.54 197.42 L 525.14 192.98 L 517 188.78 L 509.36 185.07 L 501.22 181.62 L 493.08 178.41 L 484.45 175.44 L 476.31 172.73 L 467.67 170.5 L 458.55 168.78 L 449.67 167.05 L 440.79 165.81 L 431.41 164.82 L 422.04 164.58 L 452.13 196.19 L 415.38 226.07 Z" fill="#9AE992" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-8" data-name="Freeform 258">
+<path d="M 640 387.95 L 640 387.95 L 640 380.79 L 639.75 373.87 L 639.01 366.96 L 638.52 360.04 L 637.53 353.38 L 636.29 346.46 L 635.06 339.79 L 633.33 333.37 L 609.12 370.91 L 571.57 343 L 573.05 348.44 L 574.53 353.87 L 575.27 359.3 L 576.26 365.23 L 577 370.66 L 577.74 376.34 L 577.99 382.02 L 577.99 387.95 L 577.74 397.09 L 577 406.22 L 575.77 415.12 L 574.04 423.76 L 571.82 432.16 L 568.85 440.31 L 566.13 448.7 L 562.68 456.6 L 558.72 464.51 L 554.28 471.67 L 549.83 479.08 L 544.64 485.75 L 539.21 492.66 L 533.52 499.08 L 527.35 505.01 L 520.92 510.94 L 512.53 555.39 L 557.24 561.07 L 566.38 553.17 L 575.27 544.77 L 583.67 535.88 L 591.33 526.49 L 598.74 516.86 L 605.91 506.74 L 611.84 496.12 L 617.77 485.25 L 622.71 473.89 L 627.15 462.53 L 631.11 450.68 L 634.32 438.82 L 636.79 426.23 L 638.76 413.88 L 639.75 401.04 L 640 387.95 Z" fill="#6EDAA8" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-9" data-name="Freeform 259">
+<path d="M 514.03 516.53 L 514.03 516.53 L 508.85 520.23 L 503.42 523.94 L 497.49 527.39 L 491.81 530.6 L 486.13 533.57 L 479.96 536.28 L 473.79 539 L 467.62 541.22 L 461.45 543.2 L 454.78 544.93 L 448.36 546.66 L 441.45 547.89 L 434.78 548.88 L 427.87 549.38 L 420.71 550.12 L 413.79 550.12 L 406.88 550.12 L 399.97 549.38 L 393.3 548.88 L 386.64 547.89 L 380.22 546.66 L 373.3 544.93 L 366.88 543.45 L 360.46 541.47 L 354.54 539.25 L 348.37 536.78 L 342.69 534.06 L 336.52 530.85 L 331.08 528.13 L 325.4 524.43 L 320.22 520.97 L 314.79 517.27 L 268.12 522.95 L 274.79 564.2 L 281.95 569.63 L 289.6 574.82 L 297.26 579.51 L 305.16 583.96 L 313.55 588.65 L 321.95 592.35 L 330.1 595.81 L 338.74 599.02 L 347.87 601.99 L 356.76 604.46 L 366.14 606.93 L 375.28 608.41 L 384.91 609.64 L 394.54 610.88 L 404.16 611.62 L 413.79 611.62 L 423.42 611.62 L 432.81 610.88 L 442.19 609.89 L 451.57 608.65 L 460.7 606.93 L 469.84 604.95 L 478.48 602.23 L 487.12 599.76 L 495.76 596.55 L 503.91 593.09 L 512.31 589.64 L 520.21 585.44 L 528.35 581.24 L 535.76 576.3 L 543.41 571.61 L 550.33 566.17 L 505.64 560.49 L 514.03 516.53 Z" fill="#3BBB8E" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-10" data-name="Freeform 260">
+<path d="M 308.27 512.15 L 308.27 512.15 L 301.61 506.23 L 295.44 500.3 L 289.52 493.88 L 284.1 487.21 L 278.92 480.05 L 273.98 472.64 L 269.54 465.24 L 265.35 457.58 L 261.89 449.43 L 258.69 441.28 L 256.22 432.64 L 254 424 L 252.03 415.36 L 250.79 406.47 L 250.05 397.08 L 249.81 387.95 L 249.81 381.28 L 250.3 374.37 L 251.04 367.94 L 252.03 361.28 L 253.26 354.86 L 254.49 348.44 L 256.47 342.51 L 258.44 336.34 L 239.44 293.37 L 200.96 312.38 L 197.75 321.27 L 195.04 330.16 L 192.82 339.55 L 190.84 349.18 L 189.36 358.31 L 188.38 368.44 L 187.64 378.07 L 187.39 387.95 L 188.13 400.79 L 189.12 413.13 L 190.6 425.73 L 193.06 437.83 L 196.27 449.68 L 199.97 461.29 L 204.41 472.4 L 209.1 483.51 L 214.53 494.13 L 220.69 504.75 L 227.36 514.62 L 234.51 524.25 L 242.16 533.64 L 250.05 542.28 L 258.44 550.92 L 267.32 558.58 L 260.91 517.83 L 308.27 512.15 Z" fill="#00AA64" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-12" data-name="TextBox 15" transform="rotate(38.27 538.61 243.26)">
+<rect x="466.22" y="229.53" width="144.76" height="27.47" fill="none" stroke="none"/>
+<text x="538.61" y="246.79" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="14.67" font-weight="bold">Primary Idea</tspan></text>
+</g>
+<g id="shape-14" data-name="TextBox 17" transform="rotate(327.18 311.13 226.19)">
+<rect x="233.25" y="212.46" width="155.75" height="27.47" fill="none" stroke="none"/>
+<text x="311.13" y="229.72" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="14.67" font-weight="bold">Result</tspan></text>
+</g>
+<g id="shape-16" data-name="TextBox 19" transform="rotate(107.93 592.53 455.24)">
+<rect x="517.22" y="441.5" width="150.63" height="27.47" fill="none" stroke="none"/>
+<text x="592.53" y="458.77" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="14.67" font-weight="bold">Process Planning</tspan></text>
+</g>
+<g id="shape-18" data-name="TextBox 18" transform="rotate(253.65 229.08 441.77)">
+<rect x="154.05" y="428.04" width="150.06" height="27.47" fill="none" stroke="none"/>
+<text x="229.08" y="445.31" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="14.67" font-weight="bold">Implementation</tspan></text>
+</g>
+<g id="shape-19" data-name="TextBox 20">
+<rect x="336.09" y="563.4" width="147.84" height="27.47" fill="none" stroke="none"/>
+<text x="410.01" y="580.66" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="14.67" font-weight="bold">Research</tspan></text>
+</g>
+</g>
+<g id="shape-34" data-name="圓角矩形 33">
+<rect x="695.22" y="197.4" width="452.61" height="69.63" rx="9.28" ry="9.28" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-36" data-name="圓角矩形 35">
+<rect x="695.22" y="279.87" width="452.61" height="69.63" rx="9.28" ry="9.28" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-37" data-name="圓角矩形 36">
+<rect x="695.22" y="362.91" width="452.61" height="69.63" rx="9.28" ry="9.28" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-38" data-name="圓角矩形 37">
+<rect x="695.22" y="445.96" width="452.61" height="69.63" rx="9.28" ry="9.28" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-39" data-name="圓角矩形 38">
+<rect x="695.22" y="529" width="452.61" height="69.63" rx="9.28" ry="9.28" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="圓角矩形 39">
+<rect x="695.96" y="197.4" width="17.05" height="69.05" rx="2.27" ry="2.27" fill="#009056" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-41" data-name="圓角矩形 40">
+<rect x="695.96" y="279.29" width="17.05" height="69.05" rx="2.27" ry="2.27" fill="#00AA64" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-42" data-name="圓角矩形 41">
+<rect x="695.96" y="361.56" width="16.27" height="69.05" rx="2.17" ry="2.17" fill="#3BBB8E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-43" data-name="圓角矩形 42">
+<rect x="695.96" y="446.6" width="16.27" height="69.05" rx="2.17" ry="2.17" fill="#6EDAA8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-44" data-name="圓角矩形 43">
+<rect x="695.96" y="528.94" width="16.27" height="69.05" rx="2.17" ry="2.17" fill="#9AE992" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-45" data-name="Google Shape;512;p14">
+<rect x="727.79" y="205.31" width="241.66" height="55.59" fill="none" stroke="none"/>
+<text x="737.39" y="223.71" text-anchor="start" xml:space="preserve" font-family="&quot;Microsoft JhengHei&quot;, sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明內容</tspan></text>
+</g>
+<g id="shape-46" data-name="Google Shape;512;p14">
+<rect x="727.79" y="288.41" width="241.66" height="55.59" fill="none" stroke="none"/>
+<text x="737.39" y="306.81" text-anchor="start" xml:space="preserve" font-family="&quot;Microsoft JhengHei&quot;, sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明內容</tspan></text>
+</g>
+<g id="shape-47" data-name="Google Shape;512;p14">
+<rect x="727.79" y="370.38" width="241.66" height="55.59" fill="none" stroke="none"/>
+<text x="737.39" y="388.78" text-anchor="start" xml:space="preserve" font-family="&quot;Microsoft JhengHei&quot;, sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明內容</tspan></text>
+</g>
+<g id="shape-48" data-name="Google Shape;512;p14">
+<rect x="727.79" y="452.98" width="241.66" height="55.59" fill="none" stroke="none"/>
+<text x="737.39" y="471.38" text-anchor="start" xml:space="preserve" font-family="&quot;Microsoft JhengHei&quot;, sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明內容</tspan></text>
+</g>
+<g id="shape-49" data-name="Google Shape;512;p14">
+<rect x="727.79" y="536.28" width="241.66" height="55.59" fill="none" stroke="none"/>
+<text x="737.39" y="554.67" text-anchor="start" xml:space="preserve" font-family="&quot;Microsoft JhengHei&quot;, sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明內容</tspan></text>
+</g>
+<g id="shape-31" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g>
+<g id="shape-33" data-name="橢圓 32">
+<ellipse cx="413.55" cy="387.79" rx="156.12" ry="156.12" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-35" data-name="Google Shape;512;p14">
+<rect x="280.08" y="348.04" width="273.49" height="61.68" fill="none" stroke="none"/>
+<text x="416.83" y="393.37" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;Microsoft JhengHei&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">PROJECT</tspan></text>
+</g></svg>

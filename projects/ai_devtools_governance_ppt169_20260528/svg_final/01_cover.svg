@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="coverSidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-cover">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="112" height="720" fill="url(#coverSidebarGradient)" />
+<circle cx="-8" cy="90" r="142" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-28" cy="214" r="176" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-18" cy="378" r="196" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="24" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="cover-chip">
+<rect x="170" y="118" width="188" height="38" rx="19" fill="url(#bandGradient)" />
+<text x="264" y="143" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="1.4">AI GOVERNANCE</text>
+</g>
+<g id="cover-title">
+<text fill="#111827" text-anchor="start" font-size="54" font-family="Microsoft JhengHei, Arial, sans-serif" font-weight="bold" xml:space="preserve" x="170" y="246">AI 輔助開發</text><text fill="#111827" text-anchor="start" font-size="54" font-family="Microsoft JhengHei, Arial, sans-serif" font-weight="bold" xml:space="preserve" x="170" y="310">治理</text><rect x="170" y="344" width="446" height="10" rx="5" fill="url(#signalGradient)" />
+</g>
+<g id="cover-subtitle">
+<text x="170" y="410" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">當 AI 進入開發流程後，如何建立可治理的協作方式</text>
+<text x="170" y="448" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="18" fill="#4B5563">From model capability to boundaries, process, and acceptance</text>
+</g>
+<g id="cover-pill-row">
+<rect x="170" y="486" width="112" height="30" rx="15" fill="url(#bandGradient)" />
+<text x="226" y="506" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold">邊界</text>
+<rect x="298" y="486" width="112" height="30" rx="15" fill="url(#coreGradient)" />
+<text x="354" y="506" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold">流程</text>
+<rect x="426" y="486" width="112" height="30" rx="15" fill="#009056" />
+<text x="482" y="506" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold">驗收</text>
+</g>
+<g id="cover-summary-card">
+<rect x="170" y="536" width="566" height="84" rx="18" fill="#F4FBF8" stroke="#D9D9D9" />
+<text fill="#111827" text-anchor="start" font-size="18" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="202" y="568">起點：Karpathy 觀察與 GitHub 萬星提示詞治理實踐</text><text fill="#111827" text-anchor="start" font-size="18" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="202" y="596">核心：先定義邊界、流程與驗收標準，再擴大 AI 協作</text></g>
+<g id="cover-footer">
+<text x="170" y="666" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">2026年 AI 協作治理簡報</text>
+<image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAABDCAIAAADbBc2vAAAEVElEQVR42u2dS5KjMAyG6ZTvNr2Yvsv0SXKYbHK8WaQqlcK2kG35Ifj+ZTcBI/RbDyTx9eff3w0AoMMNEQAAYQCAMADMRph7+ef9Ef/x+/eHBwPWxNesoD9JFWgDIEwxVaANuBxhilhRAYgETkKY3lSBNuA8hBnJFmgDNtdp5SlsmXhdAGHQWgD6E2Y6W6ArcEOYRZQVzgAHhFlKTeEM2JbNkq2sneTNwEKE8bKRQxswnzC+3J7enDGRRt0iPy9te5u7m+onw363sAphPAYJnZ6EuSiS62y/SuntW9WPa8jgkTDh9CH18/5w6puZCPx1kkYJGMowd1PDzNo2JkvmOgFF9qxdUO0yfN4f+pMUHUzHJZjglB4qKPvO/I5LHLMKRe/h+sdkeJ1593e//u1QwrC1LOtPyv/VKLcc5X///hRxJnm2OD7Zcd6RggU0srfbs7I25AyLoN9WiQRcMuxAGa8mEskkuL8mbcKldHr6061Yw/t4q8SrLVF3d5Rc7W6p7W7k0oQhgKlzz+QXDodqYZ6zyl1RXm3yeEOViFf1PvmazAmXYsswI7Nyivat8UnLoDFlpRw7kzqFq9mWMZxZLRG0u+Wcm1eURtOLMWlUnQY/4ZoBetenZViRKWz2ySBBk/VaIdPglzyB0GWuX1T3QkMfRo/PZVVbLRfR/+2abBlTa/z5r64V+C3L3kUyyYglPqx0YUUu3Mb0/osYDaFEv1rFY33t8ZOuxZdnelfDi8v5BSxKJfuManJJhcVjA8GT9EIqLIxLnzBZqzLGl5Y1u9q4YWGuniuL01zVry8qKlZs92wyQBBmdM+JUP/b1QppaOOrXhjCnKfXX8gRfWpwo4LGPy+1XUXBfc79KxpFUFf6sKBrh4UZHfS3VG3JxCh6f083OITBGB4kzcDWb8zS6bcKE2WaMpds8Wysx2QxhGEoJtiGvodBpQDgxSV7AehGmFMqFmwB3WcrnyaegS1g0DBy75yBKoDPXfjmyUVeldjeZu5sw4QZBqugSaG7r0F4yYdqPutoivQOCz31faOamtHDyf8DJs7cMBFjyE9140ZpzEbxWKruSx4lnKtlzE29yB1QOrRFU5OWqwrVVKnZfuCl9HtMuacQC1DzW+G6NJCZdSbLLcp1Jqi0alPZv6X8qlFLl3WLRY33FGX5s3yY3GanXHBYvJSVIsKiXoD2I0f2xuhNXD82LuSSGcrdy/fcBOMueFY9Rv4lzyNfWj740LExZ5rGb9RkUITzVPThBI+9EF7G1Zn8/NVKvXOK2kczd93RvFtywa8J55DUxJJyYTZA6abbvmGv0ENWlwJdYcEamQfa66w2JH0cX/1hsInmNLZyXiZoKpMoylORJVv0c0snKO2py/G0eJsDpARhjEddyp9hWcqYV3/aqZ+mJsfqxnJuuZxybFrumOJaMkDT7ymtvVKwWBgACrYhCOPpcWJeenCjSKq4ZAAQ9AMAYQCAMAB4wn/MjF0AznB9YwAAAABJRU5ErkJggg==" x="930" y="640" width="174" height="43" />
+</g>
+</svg>

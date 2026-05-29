@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1"/>
+<stop offset="100%" stop-color="#00AA64"/>
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)"/>
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62"/>
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42"/>
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24"/>
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none"/>
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">PRINCIPLES</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">四大約束原則</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D7E8DF"/>
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="20" fill="#111827">把設計原則翻譯成管理要求，AI 協作才會從建議升級成制度。</text>
+</g>
+<g id="principles-card">
+<rect x="170" y="228" width="448" height="396" rx="18" fill="#FFFFFF" stroke="#D7E8DF"/>
+<rect x="170" y="228" width="448" height="54" rx="18" fill="#00AA64"/>
+<text x="198" y="263" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="26" fill="#FFFFFF" font-weight="bold">設計原則</text>
+<text x="202" y="330" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="19" fill="#111827">
+<tspan x="202" dy="0" fill="#00AA64" font-weight="bold">01 Think Before Coding</tspan>
+<tspan x="202" dy="30">需求未清楚前先停下來確認</tspan>
+<tspan x="202" dy="54" fill="#00AA64" font-weight="bold">02 No Over-engineering</tspan>
+<tspan x="202" dy="30">只做當下真正需要的解法</tspan>
+<tspan x="202" dy="54" fill="#00AA64" font-weight="bold">03 Targeted Modifications</tspan>
+<tspan x="202" dy="30">只改與任務直接相關的程式碼</tspan>
+<tspan x="202" dy="54" fill="#00AA64" font-weight="bold">04 Outcome-based Execution</tspan>
+<tspan x="202" dy="30">以驗收標準驅動修正流程</tspan>
+</text>
+</g>
+<g id="requirements-card">
+<rect x="662" y="228" width="448" height="396" rx="18" fill="#FFFFFF" stroke="#D7E8DF"/>
+<rect x="662" y="228" width="448" height="54" rx="18" fill="#2BCB8A"/>
+<text x="690" y="263" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="26" fill="#FFFFFF" font-weight="bold">可落地的管理要求</text>
+<text x="694" y="330" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="19" fill="#111827">
+<tspan x="694" dy="0">• 模糊需求必須先澄清，不允許自動假設</tspan>
+<tspan x="694" dy="54">• 禁止預先為未來延展性堆疊過多架構</tspan>
+<tspan x="694" dy="54">• 禁止局部修復時順手重構無關區塊</tspan>
+<tspan x="694" dy="54">• 優先要求可驗證結果，例如先補測試再修正</tspan>
+</text>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<g id="background-hero">
+<image href="../templates/images/reference_import_assets/image6.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="#0F172A" fill-opacity="0.22"/>
+</g>
+<g id="hero-label">
+<text x="120" y="156" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="18" fill="#FFFFFF" letter-spacing="1.6">WHY IT MATTERS</text>
+<rect x="120" y="170" width="118" height="5" rx="2.5" fill="#E0F974"/>
+</g>
+<g id="hero-title">
+<text x="120" y="250" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="40" fill="#FFFFFF" font-weight="bold">
+<tspan x="120" dy="0">當 AI 開始參與程式開發，</tspan>
+<tspan x="120" dy="54">真正決定效率與品質的，</tspan>
+<tspan x="120" dy="54">是協作規則是否足夠精確</tspan>
+</text>
+</g>
+<g id="hero-takeaway">
+<rect x="120" y="482" width="676" height="76" rx="14" fill="#00AA64" fill-opacity="0.88"/>
+<text x="148" y="525" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="21" fill="#FFFFFF">
+<tspan x="148" dy="0">治理的核心不是多加一個工具，而是讓 AI 在明確邊界內穩定協作。</tspan>
+</text>
+</g>
+</svg>

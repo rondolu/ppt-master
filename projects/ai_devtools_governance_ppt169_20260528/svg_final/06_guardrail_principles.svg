@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">PRINCIPLE MAP</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">四大約束原則</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">四個原則不是口號，而是可以直接映射成團隊管理要求。</text>
+</g>
+<g id="mapping-labels">
+<text x="170" y="228" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827" font-weight="bold">原則</text>
+<text x="496" y="228" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827" font-weight="bold">意圖</text>
+<rect x="704" y="206" width="116" height="28" rx="14" fill="#F3F3F3" stroke="#D9D9D9" />
+<text x="762" y="225" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#808080" font-weight="bold">治理映射</text>
+<text x="856" y="228" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827" font-weight="bold">管理要求</text>
+</g>
+<g id="row-1">
+<rect x="170" y="246" width="278" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<circle cx="206" cy="286" r="20" fill="url(#bandGradient)" />
+<text x="206" y="292" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">01</text>
+<text x="238" y="279" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">Think Before Coding</text>
+<text x="238" y="302" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">需求未清楚前先確認，避免方向性錯誤。</text>
+<rect x="476" y="246" width="198" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="498" y="279" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">先澄清、再執行</text>
+<text x="498" y="302" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">要求 AI 先指出不確定處，而不是直接補完。</text>
+<line x1="674" y1="286" x2="856" y2="286" fill="none" stroke="#00AA64" stroke-width="2" stroke-dasharray="4 4" />
+<circle cx="765" cy="286" r="6" fill="#00AA64" />
+<circle cx="856" cy="286" r="6" fill="#00AA64" />
+<rect x="856" y="246" width="254" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="878" y="279" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">模糊需求先澄清</text>
+<text x="878" y="302" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">沒有明確問題定義，就不進入執行與提交。</text>
+</g>
+<g id="row-2">
+<rect x="170" y="338" width="278" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<circle cx="206" cy="378" r="20" fill="url(#coreGradient)" />
+<text x="206" y="384" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">02</text>
+<text x="238" y="371" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">No Over-engineering</text>
+<text x="238" y="394" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">只做當下需要的解法，不為假想未來堆架構。</text>
+<rect x="476" y="338" width="198" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="498" y="371" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">最小可用解法</text>
+<text x="498" y="394" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">先解決現在的問題，再處理想像中的未來需求。</text>
+<line x1="674" y1="378" x2="856" y2="378" fill="none" stroke="#00AA64" stroke-width="2" stroke-dasharray="4 4" />
+<circle cx="765" cy="378" r="6" fill="#00AA64" />
+<circle cx="856" cy="378" r="6" fill="#00AA64" />
+<rect x="856" y="338" width="254" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="878" y="371" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">禁止預先堆架構</text>
+<text x="878" y="394" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">先控制維護成本，再考慮額外彈性與抽象。</text>
+</g>
+<g id="row-3">
+<rect x="170" y="430" width="278" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<circle cx="206" cy="470" r="20" fill="url(#signalGradient)" />
+<text x="206" y="476" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#111827" font-weight="bold">03</text>
+<text fill="#111827" text-anchor="start" font-size="15" font-family="Arial, sans-serif" font-weight="bold" xml:space="preserve" x="238" y="454">Targeted</text><text fill="#111827" text-anchor="start" font-size="15" font-family="Arial, sans-serif" font-weight="bold" xml:space="preserve" x="238" y="470">Modifications</text><text x="238" y="494" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">只改與任務直接相關的程式碼，避免修一帶十。</text>
+<rect x="476" y="430" width="198" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="498" y="463" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">維持 review 焦點</text>
+<text x="498" y="486" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">讓差異集中在任務本身，而不是周邊噪音。</text>
+<line x1="674" y1="470" x2="856" y2="470" fill="none" stroke="#00AA64" stroke-width="2" stroke-dasharray="4 4" />
+<circle cx="765" cy="470" r="6" fill="#00AA64" />
+<circle cx="856" cy="470" r="6" fill="#00AA64" />
+<rect x="856" y="430" width="254" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="878" y="463" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">禁止順手擴散修改</text>
+<text x="878" y="486" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">保護 review 焦點，讓重要差異能被清楚判讀。</text>
+</g>
+<g id="row-4">
+<rect x="170" y="522" width="278" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<circle cx="206" cy="562" r="20" fill="#00AA64" />
+<text x="206" y="568" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">04</text>
+<text fill="#111827" text-anchor="start" font-size="15" font-family="Arial, sans-serif" font-weight="bold" xml:space="preserve" x="238" y="546">Outcome-based</text><text fill="#111827" text-anchor="start" font-size="15" font-family="Arial, sans-serif" font-weight="bold" xml:space="preserve" x="238" y="562">Execution</text><text x="238" y="586" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">用可驗證結果驅動交付，而不是只看產出量。</text>
+<rect x="476" y="522" width="198" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="498" y="555" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">驗收先於提交</text>
+<text x="498" y="578" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">先定義測試與檢查，再要求 AI 開始輸出。</text>
+<line x1="674" y1="562" x2="856" y2="562" fill="none" stroke="#00AA64" stroke-width="2" stroke-dasharray="4 4" />
+<circle cx="765" cy="562" r="6" fill="#00AA64" />
+<circle cx="856" cy="562" r="6" fill="#00AA64" />
+<rect x="856" y="522" width="254" height="80" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="878" y="555" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#111827" font-weight="bold">優先要求可驗證成果</text>
+<text x="878" y="578" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563">測試、檢查與完成定義要先於自由發揮。</text>
+</g>
+<g id="page-note">
+<rect x="170" y="606" width="940" height="56" rx="14" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="196" y="629" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="13" fill="#00AA64" font-weight="bold">管理上真正要落地的不是抽象原則，而是可被 review 的操作要求</text>
+<text x="196" y="651" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="15" fill="#4B5563">當原則被寫進提示詞、要求被寫進 review 與驗收，AI 才會從自由發揮轉成可治理流程。</text>
+</g>
+</svg>

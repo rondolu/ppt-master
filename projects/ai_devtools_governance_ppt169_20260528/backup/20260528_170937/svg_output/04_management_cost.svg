@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">COST MAP</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">問題的管理成本</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">這件事的成本，會同時落在工程執行端與管理判斷端。</text>
+</g>
+<g id="left-rail">
+<rect x="170" y="230" width="74" height="362" fill="#F3FC78" stroke="#F3FC78" />
+<text x="206" y="332" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#009056" font-weight="bold" transform="rotate(270 206 332)">DIRECT COST</text>
+<text x="206" y="488" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="22" fill="#009056" font-weight="bold" transform="rotate(270 206 488)">成本不是單點，而是層層加總</text>
+</g>
+<g id="team-panel">
+<rect x="268" y="230" width="364" height="362" rx="20" fill="#FFFFFF" stroke="#D9D9D9" />
+<circle cx="304" cy="270" r="22" fill="url(#bandGradient)" />
+<use data-icon="chunk-filled/users" x="291" y="257" width="26" height="26" fill="#FFFFFF" />
+<text x="338" y="278" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">工程端的直接影響</text>
+<rect x="294" y="300" width="92" height="24" rx="12" fill="url(#bandGradient)" />
+<text x="340" y="317" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF" font-weight="bold">TEAM COST</text>
+<line x1="294" y1="344" x2="606" y2="344" stroke="#D9D9D9" stroke-width="1.5" />
+<circle cx="310" cy="378" r="16" fill="#6EDAA8" />
+<text x="310" y="384" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">A</text>
+<text x="338" y="372" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827" font-weight="bold">方向修正時間</text>
+<text x="338" y="394" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#4B5563">工程師必須反覆把 AI 拉回正確問題定義。</text>
+<circle cx="310" cy="448" r="16" fill="#3BBB8E" />
+<text x="310" y="454" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">B</text>
+<text x="338" y="442" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827" font-weight="bold">review 清噪時間</text>
+<text x="338" y="464" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#4B5563">審查先要辨識哪些改動重要，哪些只是噪音。</text>
+<circle cx="310" cy="518" r="16" fill="#009056" />
+<text x="310" y="524" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">C</text>
+<text x="338" y="512" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827" font-weight="bold">維護與重工</text>
+<text x="338" y="534" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#4B5563">補丁與附帶修改累積後，長尾維護成本同步上升。</text>
+</g>
+<g id="core-bridge">
+<rect x="658" y="262" width="112" height="300" rx="56" fill="url(#coreGradient)" />
+<text x="714" y="344" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#FFFFFF">共同壓力</text>
+<text x="714" y="390" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold">
+<tspan x="714" dy="0">治理</tspan>
+<tspan x="714" dy="36">成本</tspan>
+</text>
+<text x="714" y="468" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">process drift</text>
+<line x1="632" y1="412" x2="658" y2="412" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<line x1="770" y1="412" x2="800" y2="412" stroke="#00AA64" stroke-width="2.5" stroke-dasharray="4 4" />
+<circle cx="658" cy="412" r="6" fill="#AFABAB" />
+<circle cx="800" cy="412" r="6" fill="#00AA64" />
+</g>
+<g id="management-panel">
+<rect x="800" y="230" width="310" height="362" rx="20" fill="#FFFFFF" stroke="#D9D9D9" />
+<circle cx="836" cy="270" r="22" fill="url(#coreGradient)" />
+<use data-icon="chunk-filled/chart-bar" x="823" y="257" width="26" height="26" fill="#FFFFFF" />
+<text x="870" y="278" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">管理端看到的訊號</text>
+<rect x="826" y="300" width="114" height="24" rx="12" fill="url(#coreGradient)" />
+<text x="883" y="317" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="11" fill="#FFFFFF" font-weight="bold">MANAGEMENT SIGNAL</text>
+<line x1="826" y1="344" x2="1084" y2="344" stroke="#D9D9D9" stroke-width="1.5" />
+<text x="826" y="374" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="17" fill="#111827" font-weight="bold">1. 問題不是單一 bug</text>
+<text x="826" y="396" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#4B5563">主管真正要處理的是流程治理缺口，而不是個別失誤。</text>
+<text x="826" y="440" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="17" fill="#111827" font-weight="bold">2. 錯誤會在流程裡擴散</text>
+<text x="826" y="462" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#4B5563">沒有治理機制時，方向偏差會一路佔用後續注意力。</text>
+<text x="826" y="506" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="17" fill="#111827" font-weight="bold">3. 規則必須前置設計</text>
+<text x="826" y="528" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#4B5563">工具越普及，越不能把治理留到事後補強。</text>
+<rect x="826" y="548" width="258" height="26" rx="13" fill="url(#signalGradient)" />
+<text x="955" y="566" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#111827" font-weight="bold">核心議題是流程控制，不只是模型表現</text>
+</g>
+<g id="page-note">
+<rect x="170" y="620" width="940" height="42" rx="14" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="196" y="646" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">真正昂貴的不是偶發錯誤，而是錯誤一旦沒有治理，就會從工程端一路傳到管理端，形成持續性成本。</text>
+</g>
+</svg>

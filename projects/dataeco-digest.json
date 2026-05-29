@@ -1,0 +1,219 @@
+{
+  "_meta": {
+    "source": "C:\\Users\\00905847\\ppt-master-main\\ppt-master-main\\projects\\2026 DataEco PPT Template 簡約版.pptx",
+    "description": "Condensed template digest for layout matching.",
+    "slide_dimensions": {
+      "width_inches": 13.333,
+      "height_inches": 7.5
+    }
+  },
+  "layouts": [
+    {
+      "index": 0,
+      "name": "標題投影片",
+      "category": "content",
+      "signature": {
+        "center_title": 1,
+        "subtitle": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 1,
+      "name": "標題及內容",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "object": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 2,
+      "name": "章節標題",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 3,
+      "name": "兩個內容",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "object": 2,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 4,
+      "name": "比較",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "body": 2,
+        "object": 2,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 5,
+      "name": "只有標題",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 6,
+      "name": "空白",
+      "category": "content",
+      "signature": {
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 7,
+      "name": "含輔助字幕的內容",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "object": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 8,
+      "name": "含輔助字幕的圖片",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "picture": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 9,
+      "name": "標題及直排文字",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    },
+    {
+      "index": 10,
+      "name": "直排標題及文字",
+      "category": "content",
+      "signature": {
+        "title": 1,
+        "body": 1,
+        "date": 1,
+        "footer": 1,
+        "slide_number": 1
+      }
+    }
+  ],
+  "signature_lookup": {
+    "center_title:1_date:1_footer:1_slide_number:1_subtitle:1": [
+      {
+        "index": 0,
+        "name": "標題投影片"
+      }
+    ],
+    "date:1_footer:1_object:1_slide_number:1_title:1": [
+      {
+        "index": 1,
+        "name": "標題及內容"
+      }
+    ],
+    "body:1_date:1_footer:1_slide_number:1_title:1": [
+      {
+        "index": 2,
+        "name": "章節標題"
+      },
+      {
+        "index": 9,
+        "name": "標題及直排文字"
+      },
+      {
+        "index": 10,
+        "name": "直排標題及文字"
+      }
+    ],
+    "date:1_footer:1_object:2_slide_number:1_title:1": [
+      {
+        "index": 3,
+        "name": "兩個內容"
+      }
+    ],
+    "body:2_date:1_footer:1_object:2_slide_number:1_title:1": [
+      {
+        "index": 4,
+        "name": "比較"
+      }
+    ],
+    "date:1_footer:1_slide_number:1_title:1": [
+      {
+        "index": 5,
+        "name": "只有標題"
+      }
+    ],
+    "date:1_footer:1_slide_number:1": [
+      {
+        "index": 6,
+        "name": "空白"
+      }
+    ],
+    "body:1_date:1_footer:1_object:1_slide_number:1_title:1": [
+      {
+        "index": 7,
+        "name": "含輔助字幕的內容"
+      }
+    ],
+    "body:1_date:1_footer:1_picture:1_slide_number:1_title:1": [
+      {
+        "index": 8,
+        "name": "含輔助字幕的圖片"
+      }
+    ]
+  },
+  "capabilities": {
+    "max_body": 2,
+    "max_picture": 1,
+    "categories": [
+      "content"
+    ],
+    "body_counts_available": [
+      1,
+      2
+    ]
+  }
+}

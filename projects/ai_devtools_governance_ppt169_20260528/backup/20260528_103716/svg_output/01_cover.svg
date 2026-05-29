@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<g id="background-cover">
+<image href="../templates/images/reference_import_assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="title-block">
+<text x="118" y="198" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="56" fill="#FFFFFF" font-weight="bold">
+<tspan x="118" dy="0">AI 輔助開發</tspan>
+<tspan x="118" dy="64">治理</tspan>
+</text>
+</g>
+<g id="subtitle-block">
+<text x="126" y="342" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="23" fill="#FFFFFF" font-weight="bold">從 GitHub 萬星提示詞專案看協作邊界設計</text>
+<text x="126" y="382" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="18" fill="#FFFFFF">An operational view inspired by Andrej Karpathy</text>
+</g>
+<g id="cover-footer">
+<text x="118" y="664" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="21" fill="#FFFFFF">2026年  AI 協作治理簡報</text>
+<image href="../templates/images/reference_import_assets/image2.emf" x="1126" y="640" width="34" height="42" preserveAspectRatio="none"/>
+<image href="../templates/images/reference_import_assets/image3.png" x="962" y="639" width="174" height="43" preserveAspectRatio="none"/>
+</g>
+</svg>

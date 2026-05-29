@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">SOLUTION FLOW</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">社群給出的解法</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">核心做法很直接：先把高價值協作規則寫進提示詞與工作流程。</text>
+</g>
+<g id="hero-strip">
+<rect x="170" y="224" width="930" height="76" rx="20" fill="url(#coreGradient)" />
+<text x="204" y="269" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="26" fill="#FFFFFF" font-weight="bold">先用規則穩住 AI 行為，再談模型升級與流程擴張。</text>
+</g>
+<g id="process-line">
+<line x1="194" y1="390" x2="1076" y2="390" fill="none" stroke="#D9D9D9" stroke-width="4" />
+<line x1="264" y1="390" x2="264" y2="344" fill="none" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<line x1="488" y1="390" x2="488" y2="438" fill="none" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<line x1="712" y1="390" x2="712" y2="344" fill="none" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<line x1="936" y1="390" x2="936" y2="438" fill="none" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<circle cx="264" cy="390" r="8" fill="#00AA64" />
+<circle cx="488" cy="390" r="8" fill="#00AA64" />
+<circle cx="712" cy="390" r="8" fill="#00AA64" />
+<circle cx="936" cy="390" r="8" fill="#00AA64" />
+</g>
+<g id="step-1">
+<rect x="170" y="214" width="188" height="126" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="194" y="240" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#00AA64" font-weight="bold">STEP 1</text>
+<text x="194" y="274" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">寫清邊界</text>
+<text x="194" y="302" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">
+<tspan x="194" dy="0">把能做與不能做，</tspan>
+<tspan x="194" dy="22">直接寫進系統提示詞。</tspan>
+</text>
+<rect x="192" y="312" width="144" height="24" rx="12" fill="url(#bandGradient)" />
+<text x="264" y="328" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">降低自由發揮空間</text>
+</g>
+<g id="step-2">
+<rect x="394" y="438" width="188" height="126" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="418" y="464" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#00AA64" font-weight="bold">STEP 2</text>
+<text x="418" y="498" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">設停損點</text>
+<text x="418" y="526" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">
+<tspan x="418" dy="0">需求不清先提問，</tspan>
+<tspan x="418" dy="22">不准直接猜完再做。</tspan>
+</text>
+<rect x="416" y="536" width="144" height="24" rx="12" fill="url(#coreGradient)" />
+<text x="488" y="552" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="bold">把偏差攔在前段</text>
+</g>
+<g id="step-3">
+<rect x="618" y="214" width="188" height="126" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="642" y="240" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#00AA64" font-weight="bold">STEP 3</text>
+<text x="642" y="274" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">綁定驗收</text>
+<text x="642" y="302" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">
+<tspan x="642" dy="0">把測試、檢查與完成</tspan>
+<tspan x="642" dy="22">定義一起寫進流程。</tspan>
+</text>
+<rect x="640" y="312" width="144" height="24" rx="12" fill="url(#signalGradient)" />
+<text x="712" y="328" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#111827" font-weight="bold">讓輸出可被驗證</text>
+</g>
+<g id="step-4">
+<rect x="842" y="438" width="188" height="126" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<text x="866" y="464" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="12" fill="#00AA64" font-weight="bold">STEP 4</text>
+<text x="866" y="498" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">逐步擴大</text>
+<text x="866" y="526" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">
+<tspan x="866" dy="0">先穩定高價值任務，</tspan>
+<tspan x="866" dy="22">再向更多場景擴張。</tspan>
+</text>
+<rect x="864" y="536" width="144" height="24" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="936" y="552" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#4B5563" font-weight="bold">低成本、可持續</text>
+</g>
+<g id="page-note">
+<rect x="170" y="618" width="930" height="42" rx="14" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="196" y="644" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">這類方案之所以快速累積關注，是因為它不要求先升級模型或重建基礎設施，而是先穩住輸出行為。</text>
+</g>
+</svg>

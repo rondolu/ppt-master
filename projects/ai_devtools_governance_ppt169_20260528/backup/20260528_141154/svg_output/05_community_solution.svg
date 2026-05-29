@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">SOLUTION</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">社群給出的解法</text>
+</g>
+<g id="hero-strip">
+<rect x="170" y="148" width="930" height="88" rx="18" fill="#00AA64" />
+<text x="206" y="190" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="27" fill="#FFFFFF" font-weight="bold">
+<tspan x="206" dy="0">這個萬星專案的做法很直接：</tspan>
+<tspan x="206" dy="33">先用提示詞把高價值協作原則寫成行為邊界。</tspan>
+</text>
+</g>
+<g id="solution-row-1">
+<rect x="170" y="276" width="930" height="84" rx="16" fill="#FFFFFF" stroke="#D7E8DF" />
+<rect x="170" y="276" width="14" height="84" rx="7" fill="#00AA64" />
+<use data-icon="chunk-filled/shield" x="204" y="305" width="24" height="24" fill="#00AA64" />
+<text x="246" y="326" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="21" fill="#111827">它沒有重建龐大基礎設施，而是先規範 AI 何時該停、該問、該怎麼驗收。</text>
+</g>
+<g id="solution-row-2">
+<rect x="170" y="382" width="930" height="84" rx="16" fill="#FFFFFF" stroke="#D7E8DF" />
+<rect x="170" y="382" width="14" height="84" rx="7" fill="#2BCB8A" />
+<use data-icon="chunk-filled/target-arrow" x="204" y="411" width="24" height="24" fill="#2BCB8A" />
+<text x="246" y="432" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="21" fill="#111827">價值在於導入成本低，團隊不必等更強模型，也不必先投入大量工程資源。</text>
+</g>
+<g id="solution-row-3">
+<rect x="170" y="488" width="930" height="84" rx="16" fill="#FFFFFF" stroke="#D7E8DF" />
+<rect x="170" y="488" width="14" height="84" rx="7" fill="#E0F974" />
+<use data-icon="chunk-filled/circle-checkmark" x="204" y="517" width="24" height="24" fill="#111827" />
+<text x="246" y="538" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="21" fill="#111827">先把邊界定清楚，就能先改善 AI 協作品質，再逐步擴大使用範圍。</text>
+</g>
+</svg>

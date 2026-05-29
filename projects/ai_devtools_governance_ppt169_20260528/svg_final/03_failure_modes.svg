@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)" />
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">RISK MAP</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">目前最常見的三個失效點</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">三個失效點不是平行雜訊，而是會沿著同一條治理鏈一路放大。</text>
+</g>
+<g id="risk-1">
+<rect x="170" y="236" width="352" height="112" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<rect x="170" y="236" width="352" height="14" rx="18" fill="url(#bandGradient)" />
+<circle cx="216" cy="292" r="28" fill="url(#bandGradient)" stroke="#00AA64" stroke-width="1.5" />
+<text x="216" y="300" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold">01</text>
+<rect x="434" y="264" width="72" height="24" rx="8" fill="#F3F3F3" />
+<text x="470" y="281" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#808080">未確認</text>
+<text x="258" y="286" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="26" fill="#111827" font-weight="bold">假設先驗</text>
+<text fill="#4B5563" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="258" y="316">需求還沒講清楚時，AI 就先補完假設，</text><text fill="#4B5563" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="258" y="340">讓方向偏差從一開始就被寫進輸出。</text></g>
+<g id="risk-2">
+<rect x="170" y="364" width="352" height="112" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<rect x="170" y="364" width="352" height="14" rx="18" fill="url(#coreGradient)" />
+<circle cx="216" cy="420" r="28" fill="url(#coreGradient)" stroke="#009056" stroke-width="1.5" />
+<text x="216" y="428" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold">02</text>
+<rect x="434" y="392" width="72" height="24" rx="8" fill="#F3F3F3" />
+<text x="470" y="409" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#808080">堆疊</text>
+<text x="258" y="414" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="26" fill="#111827" font-weight="bold">過度設計</text>
+<text fill="#4B5563" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="258" y="444">小任務卻先長出抽象層與新架構，</text><text fill="#4B5563" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="258" y="468">把維護成本提前灌進團隊流程。</text></g>
+<g id="risk-3">
+<rect x="170" y="492" width="352" height="112" rx="18" fill="#FFFFFF" stroke="#D9D9D9" />
+<rect x="170" y="492" width="352" height="14" rx="18" fill="url(#signalGradient)" />
+<circle cx="216" cy="548" r="28" fill="url(#signalGradient)" stroke="#3BBB8E" stroke-width="1.5" />
+<text x="216" y="556" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold">03</text>
+<rect x="434" y="520" width="72" height="24" rx="8" fill="#F3F3F3" />
+<text x="470" y="537" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#808080">擴散</text>
+<text x="258" y="542" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="26" fill="#111827" font-weight="bold">附帶修改</text>
+<text fill="#4B5563" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="258" y="572">本來只修局部，最後卻把無關區塊</text><text fill="#4B5563" text-anchor="start" font-size="17" font-family="Microsoft JhengHei, Arial, sans-serif" xml:space="preserve" x="258" y="596">一併改掉，讓 review 焦點被稀釋。</text></g>
+<g id="connector-flow">
+<path d="M 522 292 H 560 V 420 H 585" fill="none" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<path d="M 522 420 H 585" fill="none" stroke="#00AA64" stroke-width="2.5" stroke-dasharray="4 4" />
+<path d="M 522 548 H 560 V 420 H 585" fill="none" stroke="#AFABAB" stroke-width="2" stroke-dasharray="4 4" />
+<line x1="715" y1="420" x2="760" y2="420" fill="none" stroke="#00AA64" stroke-width="2.5" stroke-dasharray="4 4" />
+<circle cx="585" cy="420" r="6" fill="#00AA64" />
+<circle cx="760" cy="420" r="6" fill="#00AA64" />
+<rect x="585" y="384" width="130" height="72" rx="16" fill="#F3F3F3" stroke="#D9D9D9" />
+<text x="650" y="408" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="12" fill="#808080">共通效應</text>
+<text x="650" y="435" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="22" fill="#111827" font-weight="bold">治理失焦</text>
+</g>
+<g id="outcome-card">
+<rect x="760" y="248" width="350" height="356" rx="22" fill="#FFFFFF" stroke="#D9D9D9" />
+<rect x="760" y="248" width="350" height="70" rx="22" fill="url(#coreGradient)" />
+
+  <g transform="translate(790.0, 268.0) scale(1.75)" fill="#FFFFFF">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 15H0V12L7 0H9L16 12V15ZM7 4H9V9H7V4ZM7 11H9V13H7V11Z" />
+  </g>
+<text x="832" y="289" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold">共同後果</text>
+<circle cx="804" cy="356" r="18" fill="#F4FBF8" stroke="#00AA64" stroke-width="1.5" />
+<text x="804" y="362" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#00AA64" font-weight="bold">A</text>
+<text x="836" y="350" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="22" fill="#111827" font-weight="bold">方向偏差</text>
+<text x="836" y="376" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">AI 從第一步就走歪，後續修正都在補救。</text>
+<circle cx="804" cy="434" r="18" fill="#F4FBF8" stroke="#00AA64" stroke-width="1.5" />
+<text x="804" y="440" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#00AA64" font-weight="bold">B</text>
+<text x="836" y="428" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="22" fill="#111827" font-weight="bold">維護膨脹</text>
+<text x="836" y="454" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">多餘架構和擴散修改一起累積技術負債。</text>
+<circle cx="804" cy="512" r="18" fill="#F4FBF8" stroke="#00AA64" stroke-width="1.5" />
+<text x="804" y="518" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="13" fill="#00AA64" font-weight="bold">C</text>
+<text x="836" y="506" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="22" fill="#111827" font-weight="bold">審查變慢</text>
+<text x="836" y="532" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#4B5563">review 被迫先清噪音，再找真正重要的差異。</text>
+<rect x="786" y="556" width="298" height="30" rx="10" fill="url(#signalGradient)" />
+<text x="935" y="576" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#111827" font-weight="bold">三者疊加後，成本不是相加，而是連鎖放大</text>
+</g>
+<g id="page-note">
+<text x="170" y="650" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="16" fill="#808080">先偏方向，再放大維護，最後把 review 變成噪音清理，這就是 AI 協作最常見的失焦鏈。</text>
+</g>
+</svg>

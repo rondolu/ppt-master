@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="3" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9DAD9"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="3" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9DAD9"/></marker><marker id="marrow3" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="3" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9DAD9"/></marker><marker id="marrow4" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="3" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9DAD9"/></marker><radialGradient id="ggrad1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#009056"/><stop offset="0.45" stop-color="#3BBB8E"/><stop offset="1" stop-color="#C3FFC0"/></radialGradient></defs><image href="../images/reference_import_assets/image20.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-34" data-name="AutoShape 9" transform="translate(709.76 319.66) scale(1 -1) translate(-709.76 -319.66)">
+<line x1="640.99" y1="298.8" x2="778.52" y2="340.51" stroke-width="2" stroke-linecap="butt" stroke="#D9DAD9" stroke-dasharray="4 4" marker-end="url(#marrow1)" fill="none"/>
+</g>
+<g id="shape-33" data-name="AutoShape 9">
+<line x1="640.99" y1="380.91" x2="778.52" y2="422.62" stroke-width="2" stroke-linecap="butt" stroke="#D9DAD9" stroke-dasharray="4 4" marker-end="url(#marrow2)" fill="none"/>
+</g>
+<g id="shape-18" data-name="圓角矩形 17">
+<rect x="739.02" y="138.89" width="367.73" height="72.83" rx="12.14" ry="12.14" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="圓角矩形 18">
+<rect x="778.52" y="262.41" width="367.73" height="72.83" rx="12.14" ry="12.14" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="圓角矩形 19">
+<rect x="778.52" y="385.93" width="367.73" height="72.83" rx="12.14" ry="12.14" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-21" data-name="圓角矩形 20">
+<rect x="739.02" y="509.44" width="367.73" height="72.83" rx="12.14" ry="12.14" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-25" data-name="AutoShape 9" transform="translate(675.16 211.72) scale(1 -1) translate(-675.16 -211.72)">
+<line x1="613.24" y1="175.31" x2="737.07" y2="248.13" stroke-width="2" stroke-linecap="butt" stroke="#D9DAD9" stroke-dasharray="4 4" marker-end="url(#marrow3)" fill="none"/>
+</g>
+<g id="shape-26" data-name="橢圓 25">
+<ellipse cx="739.02" cy="175.57" rx="5.68" ry="5.68" fill="#009056" stroke-width="4" stroke="none"/>
+</g>
+<g id="shape-28" data-name="橢圓 27">
+<ellipse cx="778.52" cy="298.82" rx="5.68" ry="5.68" fill="#009056" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-29" data-name="橢圓 28">
+<ellipse cx="778.52" cy="422.34" rx="5.68" ry="5.68" fill="#009056" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-32" data-name="AutoShape 9">
+<line x1="611.8" y1="472.57" x2="735.63" y2="545.39" stroke-width="2" stroke-linecap="butt" stroke="#D9DAD9" stroke-dasharray="4 4" marker-end="url(#marrow4)" fill="none"/>
+</g>
+<g id="shape-30" data-name="橢圓 29">
+<ellipse cx="739.02" cy="545.86" rx="5.68" ry="5.68" fill="#009056" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-35" data-name="Google Shape;512;p14">
+<rect x="767.79" y="145.61" width="273.49" height="56.07" fill="none" stroke="none"/>
+<text x="777.39" y="184.15" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明第一個要點</tspan></text>
+</g>
+<g id="shape-36" data-name="Google Shape;512;p14">
+<rect x="805.17" y="270.5" width="280.44" height="56.07" fill="none" stroke="none"/>
+<text x="814.77" y="309.04" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明第二個要點</tspan></text>
+</g>
+<g id="shape-37" data-name="Google Shape;512;p14">
+<rect x="805.17" y="394.02" width="290.22" height="56.07" fill="none" stroke="none"/>
+<text x="814.77" y="432.55" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明第三個要點</tspan></text>
+</g>
+<g id="shape-38" data-name="Google Shape;512;p14">
+<rect x="767.79" y="514.84" width="273.49" height="56.07" fill="none" stroke="none"/>
+<text x="777.39" y="553.37" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明第四個要點</tspan></text>
+</g>
+<g id="shape-23" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g>
+<g id="shape-31" data-name="橢圓 30">
+<ellipse cx="418.93" cy="360" rx="224.54" ry="224.54" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-22" data-name="Google Shape;512;p14">
+<rect x="282.18" y="373.73" width="273.49" height="56.07" fill="none" stroke="none"/>
+<text x="418.93" y="412.26" text-anchor="middle" xml:space="preserve" font-family="&quot;Microsoft JhengHei&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">補充說明專案文字內容</tspan></text>
+</g>
+<g id="shape-27" data-name="Google Shape;512;p14">
+<rect x="282.18" y="301.99" width="273.49" height="61.68" fill="none" stroke="none"/>
+<text x="418.93" y="354.12" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;Microsoft JhengHei&quot;, sans-serif" font-size="40" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="40" font-weight="bold">PROJECT</tspan></text>
+</g></svg>

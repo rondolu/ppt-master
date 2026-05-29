@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="heroSidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1"/>
+<stop offset="100%" stop-color="#00AA64"/>
+</linearGradient>
+</defs>
+<g id="background-hero">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<rect x="0" y="0" width="96" height="720" fill="url(#heroSidebarGradient)"/>
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62"/>
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42"/>
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24"/>
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none"/>
+</g>
+<g id="hero-label">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">WHY</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">為什麼值得關注</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D7E8DF"/>
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="20" fill="#111827">真正要治理的不是模型本身，而是 AI 與團隊之間的協作規則。</text>
+</g>
+<g id="hero-main-card">
+<rect x="170" y="234" width="940" height="240" rx="20" fill="#FFFFFF" stroke="#D7E8DF"/>
+<rect x="170" y="234" width="940" height="12" rx="6" fill="#00AA64"/>
+<text x="208" y="308" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="38" fill="#111827" font-weight="bold">
+<tspan x="208" dy="0">當 AI 開始參與程式開發，</tspan>
+<tspan x="208" dy="52">真正決定效率與品質的，</tspan>
+<tspan x="208" dy="52">是協作規則是否足夠精確</tspan>
+</text>
+</g>
+<g id="hero-takeaway-card">
+<rect x="170" y="508" width="592" height="92" rx="18" fill="#00AA64"/>
+<text x="202" y="546" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="20" fill="#FFFFFF">
+<tspan x="202" dy="0">治理的核心不是多加一個工具，</tspan>
+<tspan x="202" dy="30">而是讓 AI 在明確邊界內穩定協作。</tspan>
+</text>
+</g>
+<g id="hero-side-note">
+<rect x="790" y="508" width="320" height="92" rx="18" fill="#F4FBF8" stroke="#D7E8DF"/>
+<text x="822" y="546" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="17" fill="#111827">
+<tspan x="822" dy="0">治理焦點：</tspan>
+<tspan x="822" dy="26">假設、修改邊界、</tspan>
+<tspan x="822" dy="26">驗證與停損機制</tspan>
+</text>
+</g>
+</svg>

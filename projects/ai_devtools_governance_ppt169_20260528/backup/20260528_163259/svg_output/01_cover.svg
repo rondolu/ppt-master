@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="coverSidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1" />
+<stop offset="100%" stop-color="#00AA64" />
+</linearGradient>
+<linearGradient id="bandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#C3FFC0" />
+<stop offset="96%" stop-color="#3BBB8E" />
+</linearGradient>
+<linearGradient id="coreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#009056" />
+<stop offset="34%" stop-color="#00AA64" />
+<stop offset="100%" stop-color="#9AE992" />
+</linearGradient>
+<linearGradient id="signalGradient" x1="100%" y1="100%" x2="0%" y2="0%">
+<stop offset="0%" stop-color="#F3FC78" />
+<stop offset="43%" stop-color="#8CECBD" />
+<stop offset="100%" stop-color="#3BBB8E" />
+</linearGradient>
+</defs>
+<g id="background-cover">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<rect x="0" y="0" width="112" height="720" fill="url(#coverSidebarGradient)" />
+<circle cx="-8" cy="90" r="142" fill="#C8F9D9" fill-opacity="0.62" />
+<circle cx="-28" cy="214" r="176" fill="#A7F3D0" fill-opacity="0.42" />
+<circle cx="-18" cy="378" r="196" fill="#6EE7B7" fill-opacity="0.24" />
+<image href="../templates/images/reference_import_assets/image2.emf" x="24" y="666" width="34" height="42" preserveAspectRatio="none" />
+</g>
+<g id="cover-chip">
+<rect x="170" y="118" width="188" height="38" rx="19" fill="url(#bandGradient)" />
+<text x="264" y="143" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="1.4">AI GOVERNANCE</text>
+</g>
+<g id="cover-title">
+<text x="170" y="246" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="54" fill="#111827" font-weight="bold">
+<tspan x="170" dy="0">AI 輔助開發</tspan>
+<tspan x="170" dy="64">治理</tspan>
+</text>
+<rect x="170" y="344" width="446" height="10" rx="5" fill="url(#signalGradient)" />
+</g>
+<g id="cover-subtitle">
+<text x="170" y="410" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="24" fill="#111827" font-weight="bold">當 AI 進入開發流程後，如何建立可治理的協作方式</text>
+<text x="170" y="448" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="18" fill="#4B5563">From model capability to boundaries, process, and acceptance</text>
+</g>
+<g id="cover-pill-row">
+<rect x="170" y="486" width="112" height="30" rx="15" fill="url(#bandGradient)" />
+<text x="226" y="506" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold">邊界</text>
+<rect x="298" y="486" width="112" height="30" rx="15" fill="url(#coreGradient)" />
+<text x="354" y="506" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#FFFFFF" font-weight="bold">流程</text>
+<rect x="426" y="486" width="112" height="30" rx="15" fill="url(#signalGradient)" />
+<text x="482" y="506" text-anchor="middle" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="14" fill="#111827" font-weight="bold">驗收</text>
+</g>
+<g id="cover-summary-card">
+<rect x="170" y="536" width="566" height="84" rx="18" fill="#F4FBF8" stroke="#D9D9D9" />
+<text x="202" y="568" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="18" fill="#111827">
+<tspan x="202" dy="0">起點：Karpathy 觀察與 GitHub 萬星提示詞治理實踐</tspan>
+<tspan x="202" dy="28">核心：先定義邊界、流程與驗收標準，再擴大 AI 協作</tspan>
+</text>
+</g>
+<g id="cover-footer">
+<text x="170" y="666" text-anchor="start" xml:space="preserve" font-family="Microsoft JhengHei, Arial, sans-serif" font-size="20" fill="#111827">2026年 AI 協作治理簡報</text>
+<image href="../templates/images/reference_import_assets/image3.png" x="930" y="640" width="174" height="43" preserveAspectRatio="none" />
+</g>
+</svg>

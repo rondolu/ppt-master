@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+<linearGradient id="sidebarGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#8DECC1"/>
+<stop offset="100%" stop-color="#00AA64"/>
+</linearGradient>
+</defs>
+<g id="background-page">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<rect x="0" y="0" width="96" height="720" fill="url(#sidebarGradient)"/>
+<circle cx="-12" cy="86" r="132" fill="#C8F9D9" fill-opacity="0.62"/>
+<circle cx="-34" cy="198" r="170" fill="#A7F3D0" fill-opacity="0.42"/>
+<circle cx="-22" cy="352" r="184" fill="#6EE7B7" fill-opacity="0.24"/>
+<image href="../templates/images/reference_import_assets/image2.emf" x="18" y="666" width="34" height="42" preserveAspectRatio="none"/>
+</g>
+<g id="page-header">
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.5" transform="rotate(90 48 186)">RISKS</text>
+<text x="170" y="118" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="34" fill="#111827" font-weight="bold">目前最常見的三個失效點</text>
+<rect x="170" y="145" width="936" height="54" rx="12" fill="#F4FBF8" stroke="#D7E8DF"/>
+<text x="194" y="179" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="20" fill="#111827">Karpathy 指出的三大風險，會直接拉高開發與審查成本。</text>
+</g>
+<g id="risk-card-1">
+<rect x="170" y="228" width="286" height="274" rx="18" fill="#FFFFFF" stroke="#D7E8DF"/>
+<rect x="170" y="228" width="286" height="10" rx="18" fill="#00AA64"/>
+<circle cx="214" cy="278" r="24" fill="#F4FBF8" stroke="#00AA64" stroke-width="2"/>
+<text x="206" y="286" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="18" fill="#00AA64" font-weight="bold">01</text>
+<text x="202" y="334" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="28" fill="#111827" font-weight="bold">假設先驗</text>
+<text x="202" y="374" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="19" fill="#4B5563">
+<tspan x="202" dy="0">需求仍有歧義時，不先</tspan>
+<tspan x="202" dy="28">澄清就直接執行，導致</tspan>
+<tspan x="202" dy="28">方向一開始就偏掉。</tspan>
+</text>
+</g>
+<g id="risk-card-2">
+<rect x="497" y="228" width="286" height="274" rx="18" fill="#FFFFFF" stroke="#D7E8DF"/>
+<rect x="497" y="228" width="286" height="10" rx="18" fill="#2BCB8A"/>
+<circle cx="541" cy="278" r="24" fill="#F4FBF8" stroke="#2BCB8A" stroke-width="2"/>
+<text x="533" y="286" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="18" fill="#00AA64" font-weight="bold">02</text>
+<text x="529" y="334" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="28" fill="#111827" font-weight="bold">過度設計</text>
+<text x="529" y="374" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="19" fill="#4B5563">
+<tspan x="529" dy="0">替簡單任務堆疊過多</tspan>
+<tspan x="529" dy="28">架構、抽象與介面，</tspan>
+<tspan x="529" dy="28">把維護成本先做大。</tspan>
+</text>
+</g>
+<g id="risk-card-3">
+<rect x="824" y="228" width="286" height="274" rx="18" fill="#FFFFFF" stroke="#D7E8DF"/>
+<rect x="824" y="228" width="286" height="10" rx="18" fill="#E0F974"/>
+<circle cx="868" cy="278" r="24" fill="#F4FBF8" stroke="#00AA64" stroke-width="2"/>
+<text x="860" y="286" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="18" fill="#00AA64" font-weight="bold">03</text>
+<text x="856" y="334" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="28" fill="#111827" font-weight="bold">附帶修改</text>
+<text x="856" y="374" text-anchor="start" xml:space="preserve" font-family="Calibri, Arial, sans-serif" font-size="19" fill="#4B5563">
+<tspan x="856" dy="0">修一處卻連帶改動無關</tspan>
+<tspan x="856" dy="28">模組、縮排與註解風格，</tspan>
+<tspan x="856" dy="28">讓 review 被噪音淹沒。</tspan>
+</text>
+</g>
+<g id="risk-summary">
+<rect x="170" y="538" width="940" height="92" rx="18" fill="#00AA64"/>
+<text x="206" y="590" text-anchor="start" xml:space="preserve" font-family="Calibri Light, Arial, sans-serif" font-size="28" fill="#FFFFFF" font-weight="bold">三者共同結果是方向偏差、維護膨脹、審查變慢。</text>
+</g>
+</svg>

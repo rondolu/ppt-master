@@ -1,0 +1,129 @@
+{
+  "template_name": "dataeco",
+  "template_path": "projects/2026 DataEco PPT Template 簡約版.pptx",
+  "brand": {
+    "primary_color": "4472C4",
+    "secondary_color": "000000",
+    "accent_color": "44546A",
+    "header_font": "Calibri Light",
+    "body_font": "Calibri"
+  },
+  "layout_mappings": {
+    "title_cover": {
+      "layout_index": 0,
+      "layout_name": "標題投影片",
+      "use_case": "Cover page / title slide"
+    },
+    "title_centered": {
+      "layout_index": 2,
+      "layout_name": "章節標題",
+      "use_case": "Section dividers, closing statements, quotes, thank-you"
+    },
+    "content_with_image": {
+      "layout_index": 7,
+      "layout_name": "含輔助字幕的內容",
+      "use_case": "Title + body text + content object placeholder"
+    },
+    "content_centered": {
+      "layout_index": 1,
+      "layout_name": "標題及內容",
+      "use_case": "Title + single content area (no image)"
+    },
+    "column_2": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "2-column comparisons and side-by-side content"
+    },
+    "column_3": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "3-column fallback to 2-column layout"
+    },
+    "column_4": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "4-column fallback to 2-column layout"
+    },
+    "column_5": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "5-column fallback to 2-column layout"
+    },
+    "comparison": {
+      "layout_index": 4,
+      "layout_name": "比較",
+      "use_case": "Side-by-side comparison with headers and body areas"
+    },
+    "contact": {
+      "layout_index": 2,
+      "layout_name": "章節標題",
+      "use_case": "Contact page (uses section title layout)"
+    },
+    "story_card": {
+      "layout_index": 8,
+      "layout_name": "含輔助字幕的圖片",
+      "use_case": "Image with caption text"
+    },
+    "grid_3x2_3body": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "Grid fallback to 2-column layout"
+    },
+    "grid_3x2_6body": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "Grid fallback to 2-column layout"
+    },
+    "grid_2x2_2body": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "Grid fallback to 2-column layout"
+    },
+    "content_image_top_4body": {
+      "layout_index": 3,
+      "layout_name": "兩個內容",
+      "use_case": "4-body grid fallback to 2-column layout"
+    },
+    "master_base": {
+      "layout_index": 10,
+      "layout_name": "直排標題及文字",
+      "use_case": "Branding / master base slide"
+    },
+    "fallback": {
+      "layout_index": 2,
+      "layout_name": "章節標題",
+      "use_case": "Fallback for unknown content types"
+    }
+  },
+  "content_type_routing": {
+    "title_slide": "title_cover",
+    "section_divider": "title_centered",
+    "closing": "title_centered",
+    "thank_you": "title_centered",
+    "quote": "title_centered",
+    "contact": "contact",
+    "framework_2col": "column_2",
+    "framework_3col": "column_3",
+    "framework_4col": "column_4",
+    "framework_5col": "column_5",
+    "framework_cards": "column_4",
+    "comparison": "comparison",
+    "content": "content_with_image",
+    "deliverables": "content_with_image",
+    "timeline": "content_with_image",
+    "content_no_image": "content_centered",
+    "table": "content_centered",
+    "pricing": "content_centered",
+    "comparison_tables": "comparison",
+    "table_with_image": "content_with_image",
+    "story_card": "story_card",
+    "grid_3x2_3body": "grid_3x2_3body",
+    "grid_3x2_6body": "grid_3x2_6body",
+    "grid_2x2_2body": "grid_2x2_2body",
+    "content_image_top_4body": "content_image_top_4body"
+  },
+  "requires_branding_slide": false,
+  "branding_layout_index": 10,
+  "fallback_layout_index": 2,
+  "fallback_layout_name": "章節標題"
+}
