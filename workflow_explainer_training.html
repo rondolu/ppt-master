@@ -1,0 +1,1091 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI 協作簡報生成內訓解剖</title>
+  <style>
+    :root {
+      --bg: #f3f8f5;
+      --paper: rgba(255, 255, 255, 0.82);
+      --paper-strong: #ffffff;
+      --ink: #14201c;
+      --muted: #576a63;
+      --line: #d8e7df;
+      --brand: #00aa64;
+      --brand-soft: #dff5ea;
+      --brand-deep: #10382b;
+      --accent: #e0f974;
+      --shadow: 0 24px 60px rgba(16, 56, 43, 0.12);
+      --radius: 24px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      color: var(--ink);
+      font-family: "Segoe UI", "Microsoft JhengHei", sans-serif;
+      font-size: 16.5px;
+      line-height: 1.65;
+      background:
+        radial-gradient(circle at 0% 0%, rgba(224, 249, 116, 0.5), transparent 30%),
+        radial-gradient(circle at 100% 10%, rgba(0, 170, 100, 0.16), transparent 24%),
+        linear-gradient(180deg, #fbfffd 0%, #eef6f1 100%);
+    }
+
+    body {
+      min-height: 100vh;
+    }
+
+    .shell {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 36px 24px 72px;
+    }
+
+    .hero,
+    .grid,
+    .fidelity-grid,
+    .artifact-grid,
+    .detail-grid {
+      display: grid;
+      gap: 18px;
+    }
+
+    .hero {
+      grid-template-columns: minmax(0, 1.18fr) minmax(320px, 0.82fr);
+      margin-bottom: 24px;
+    }
+
+    .grid {
+      grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+      margin-top: 22px;
+    }
+
+    .fidelity-grid,
+    .artifact-grid {
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    }
+
+    .detail-grid {
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      margin-top: 18px;
+    }
+
+    .card,
+    .stage,
+    .role-card,
+    .chip-panel,
+    .artifact,
+    .fidelity,
+    .detail-box,
+    .metric {
+      background: var(--paper);
+      border: 1px solid rgba(255, 255, 255, 0.88);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(16px);
+    }
+
+    .hero-card {
+      padding: 34px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-card::after {
+      content: "";
+      position: absolute;
+      width: 240px;
+      height: 240px;
+      right: -40px;
+      top: -60px;
+      background: radial-gradient(circle, rgba(0, 170, 100, 0.26), transparent 68%);
+      pointer-events: none;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 15px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin: 0;
+    }
+
+    h1 {
+      margin-top: 18px;
+      max-width: 14ch;
+      font-size: clamp(38px, 4.6vw, 64px);
+      line-height: 1.12;
+      letter-spacing: -0.02em;
+    }
+
+    .lead {
+      margin-top: 18px;
+      max-width: 56ch;
+      font-size: 19px;
+      line-height: 1.9;
+      color: var(--muted);
+    }
+
+    .summary-card {
+      padding: 28px;
+      display: grid;
+      gap: 16px;
+      align-content: start;
+    }
+
+    .summary-title,
+    .section-kicker,
+    .stage small,
+    .timeline-item .time {
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .big-number {
+      font-size: clamp(52px, 6vw, 64px);
+      line-height: 1;
+      color: var(--brand-deep);
+      font-weight: 700;
+    }
+
+    .metric-row {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .metric {
+      padding: 18px 16px;
+      background: var(--paper-strong);
+    }
+
+    .metric strong {
+      display: block;
+      font-size: 30px;
+      color: var(--brand);
+      margin-bottom: 6px;
+    }
+
+    .metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin: 0 0 22px;
+    }
+
+    .flow-pipeline {
+      display: flex;
+      align-items: center;
+      overflow-x: auto;
+      padding: 4px 0 10px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--line) transparent;
+    }
+
+    .flow-pipeline::-webkit-scrollbar {
+      height: 4px;
+    }
+
+    .flow-pipeline::-webkit-scrollbar-thumb {
+      background: var(--line);
+      border-radius: 4px;
+    }
+
+    .flow-step {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 9px 15px;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: background 0.22s, color 0.22s, transform 0.18s, box-shadow 0.22s;
+      border: 1.5px solid var(--line);
+      background: var(--paper-strong);
+      flex-shrink: 0;
+      user-select: none;
+      font-family: inherit;
+    }
+
+    .flow-step:hover {
+      background: var(--brand-soft);
+      border-color: var(--brand);
+      transform: translateY(-2px);
+    }
+
+    .flow-step.active {
+      background: linear-gradient(145deg, #123a2d 0%, #0a1f17 100%);
+      color: #ffffff;
+      border-color: transparent;
+      box-shadow: 0 6px 20px rgba(16, 56, 43, 0.28);
+      transform: translateY(-2px);
+    }
+
+    .flow-step.done {
+      background: #edf7f2;
+      border-color: rgba(0, 170, 100, 0.25);
+    }
+
+    .flow-step .step-num {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 11px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .flow-step.active .step-num {
+      background: rgba(224, 249, 116, 0.22);
+      color: #e0f974;
+    }
+
+    .flow-step.done .step-num {
+      background: rgba(0, 170, 100, 0.15);
+      color: var(--brand);
+    }
+
+    .flow-step .step-label {
+      font-size: 12.5px;
+      font-weight: 600;
+      white-space: nowrap;
+      color: var(--ink);
+    }
+
+    .flow-step.active .step-label {
+      color: #ffffff;
+    }
+
+    .flow-step.done .step-label {
+      color: var(--brand-deep);
+    }
+
+    .flow-connector {
+      width: 26px;
+      height: 2px;
+      flex-shrink: 0;
+      margin: 0 2px;
+      background: var(--line);
+      border-radius: 2px;
+      transition: background 0.3s;
+    }
+
+    .flow-connector.done {
+      background: linear-gradient(90deg, var(--brand), rgba(0, 170, 100, 0.4));
+    }
+
+    .toolbar-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    .toolbar button {
+      appearance: none;
+      border: 0;
+      padding: 12px 20px;
+      border-radius: 999px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+    }
+
+    .toolbar .primary {
+      background: var(--brand-deep);
+      color: #ffffff;
+    }
+
+    .toolbar .secondary {
+      background: #edf7f2;
+      color: var(--brand-deep);
+      border: 1px solid var(--line);
+    }
+
+    .stage-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .stage {
+      padding: 18px;
+      min-height: 158px;
+      cursor: pointer;
+      transition: transform 0.22s ease, background 0.22s ease, color 0.22s ease;
+      position: relative;
+      text-align: left;
+    }
+
+    .stage:hover {
+      transform: translateY(-3px);
+    }
+
+    .stage.active {
+      background: linear-gradient(180deg, #123a2d 0%, #0d281f 100%);
+      color: #ffffff;
+    }
+
+    .stage.active small,
+    .stage.active p {
+      color: rgba(255, 255, 255, 0.8);
+    }
+
+    .stage h3 {
+      margin: 12px 0 10px;
+      font-size: 20px;
+      line-height: 1.35;
+    }
+
+    .stage p {
+      font-size: 14px;
+      line-height: 1.7;
+      color: var(--muted);
+    }
+
+    .stage::after {
+      display: none;
+    }
+
+    .stage:last-child::after {
+      display: none;
+    }
+
+    .panel {
+      padding: 28px;
+    }
+
+    .panel h2 {
+      font-size: clamp(29px, 3vw, 34px);
+      line-height: 1.22;
+      margin-bottom: 14px;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .chip-panel {
+      padding: 8px 13px;
+      background: #eef7f2;
+      border-radius: 999px;
+      box-shadow: none;
+      color: var(--brand-deep);
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    .detail-box {
+      padding: 20px;
+      background: var(--paper-strong);
+      box-shadow: none;
+      border: 1px solid #e3efe8;
+    }
+
+    .detail-box h3 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .detail-box p,
+    .detail-box li,
+    .role-card li,
+    .fidelity p,
+    .artifact p,
+    .timeline-item span {
+      color: var(--muted);
+      line-height: 1.84;
+      font-size: 15px;
+    }
+
+    .detail-box ul,
+    .role-card ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    .timeline {
+      display: grid;
+      gap: 12px;
+    }
+
+    .timeline-item {
+      display: grid;
+      grid-template-columns: 96px 1fr;
+      gap: 14px;
+      padding: 16px 0;
+      border-top: 1px solid #e1ece6;
+    }
+
+    .timeline-item:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+
+    .timeline-item strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 18px;
+      line-height: 1.4;
+    }
+
+    .role-section,
+    .fidelity-section,
+    .artifact-section {
+      margin-top: 18px;
+    }
+
+    .role-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 18px;
+      margin-top: 14px;
+    }
+
+    .role-card,
+    .artifact,
+    .fidelity {
+      padding: 22px;
+      background: linear-gradient(180deg, #ffffff 0%, #f5fbf8 100%);
+    }
+
+    .role-card h3,
+    .artifact h3,
+    .fidelity h3 {
+      font-size: 21px;
+      line-height: 1.35;
+      margin-bottom: 12px;
+    }
+
+    .role-card .label {
+      display: inline-block;
+      padding: 7px 11px;
+      border-radius: 999px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+
+    .fidelity strong,
+    .artifact strong {
+      color: var(--brand-deep);
+    }
+
+    .artifact code,
+    .detail-box code,
+    .role-card code,
+    .fidelity code {
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 13px;
+      background: #edf6f1;
+      padding: 3px 6px;
+      border-radius: 6px;
+      color: var(--brand-deep);
+    }
+
+    .quote-strip {
+      margin-top: 20px;
+      max-width: 56ch;
+      padding: 20px 22px;
+      border-radius: 20px;
+      background: linear-gradient(90deg, rgba(0, 170, 100, 0.12), rgba(224, 249, 116, 0.24));
+      border: 1px solid rgba(0, 170, 100, 0.12);
+      font-size: 17px;
+      line-height: 1.9;
+      color: var(--brand-deep);
+    }
+
+    @media (max-width: 1120px) {
+      .hero,
+      .grid,
+      .role-grid,
+      .fidelity-grid,
+      .artifact-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .stage-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .shell {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .stage-grid,
+      .detail-grid,
+      .metric-row {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-card,
+      .summary-card,
+      .panel {
+        padding: 22px;
+      }
+
+      .lead,
+      .quote-strip {
+        max-width: none;
+      }
+
+      .timeline-item {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 560px) {
+      html,
+      body {
+        font-size: 15.5px;
+      }
+
+      h1 {
+        font-size: 34px;
+      }
+
+      .big-number {
+        font-size: 50px;
+      }
+
+      .shell {
+        padding-left: 14px;
+        padding-right: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <section class="hero">
+      <div class="card hero-card">
+        <div class="eyebrow">Internal Training View</div>
+        <h1>AI 協作簡報不是一次生成，而是一條可治理的工作流</h1>
+        <p class="lead">
+          這次案例最值得團隊內訓的地方，不是最後那份簡報長什麼樣，而是它為什麼能穩定產生那個結果。
+          真正的關鍵不在模型突然變強，而在於 source、template、design contract、逐頁執行、品質門檻與人工回修被串成同一條 workflow。
+        </p>
+        <div class="quote-strip">
+          這份分享想談的，不是單純哪一個 AI 工具比較強，而是當 AI 真正進入開發流程後，我們該如何建立可治理的協作方式。
+        </div>
+      </div>
+
+      <div class="card summary-card">
+        <div class="summary-title">Session Snapshot</div>
+        <div class="big-number">7 頁</div>
+        <div class="metric-row">
+          <div class="metric">
+            <strong>3</strong>
+            <span>匯出版本<br>103716 / 110103 / 110946</span>
+          </div>
+          <div class="metric">
+            <strong>4</strong>
+            <span>關鍵責任角色<br>source, strategist, executor, QA loop</span>
+          </div>
+          <div class="metric">
+            <strong>55</strong>
+            <span>staged reference SVG<br>來自 DataEco reference</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card panel">
+      <div class="toolbar">
+        <div class="flow-pipeline" id="flowPipeline"></div>
+        <div class="toolbar-actions">
+          <button class="primary" id="playBtn">自動播放</button>
+          <button class="secondary" id="resetBtn">回到第一步</button>
+        </div>
+      </div>
+      <div class="stage-grid" id="stageGrid"></div>
+    </section>
+
+    <section class="grid">
+      <div class="card panel">
+        <div class="section-kicker">Workflow Detail</div>
+        <h2 id="detailTitle"></h2>
+        <div class="chips" id="detailChips"></div>
+        <div class="detail-grid">
+          <div class="detail-box">
+            <h3>這一步負責什麼</h3>
+            <p id="detailSummary"></p>
+          </div>
+          <div class="detail-box">
+            <h3>這一步控制什麼風險</h3>
+            <p id="detailRisk"></p>
+          </div>
+          <div class="detail-box">
+            <h3>輸入</h3>
+            <ul id="detailInputs"></ul>
+          </div>
+          <div class="detail-box">
+            <h3>輸出</h3>
+            <ul id="detailOutputs"></ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="card panel">
+        <div class="section-kicker">Session Milestones</div>
+        <h2>這次專案的真實節點</h2>
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="time">Source</div>
+            <div>
+              <strong>sources/ai-devtools-outline-external.md</strong>
+              <span>整份 deck 的文字來源先被固定，避免後續設計與內容一起飄移。</span>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="time">Template</div>
+            <div>
+              <strong>templates/dataeco_reference/</strong>
+              <span>DataEco example 被 staged 成 reference bundle，而不是只當作一句「風格請參考」。</span>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="time">Spec</div>
+            <div>
+              <strong>design_spec.md + spec_lock.md</strong>
+              <span>前者解釋設計意圖，後者鎖定執行值。真正抑制 drift 的是 spec_lock。</span>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="time">Build</div>
+            <div>
+              <strong>svg_output/01~07</strong>
+              <span>Executor 逐頁完成封面、hero、分析頁、收尾頁，不同頁面節奏分開處理。</span>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="time">Review</div>
+            <div>
+              <strong>quality check + annotation loop</strong>
+              <span>硬性錯誤用 quality gate 擋下，風格偏差靠 live preview 標註修正。</span>
+            </div>
+          </div>
+          <div class="timeline-item">
+            <div class="time">Export</div>
+            <div>
+              <strong>exports/*.pptx</strong>
+              <span>三次 timestamped export 把每一輪迭代都沉澱成可回追版本。</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card panel role-section">
+      <div class="section-kicker">Responsibility Boundary</div>
+      <h2>四個角色各自解決什麼問題</h2>
+      <div class="role-grid">
+        <div class="role-card">
+          <div class="label">1. Source Layer</div>
+          <h3>內容來源管理</h3>
+          <ul>
+            <li>定義 deck 的唯一內容來源。</li>
+            <li>避免 AI 一邊生內容、一邊改內容方向。</li>
+            <li>讓後續 review 能區分內容問題與設計問題。</li>
+          </ul>
+        </div>
+        <div class="role-card">
+          <div class="label">2. Strategist</div>
+          <h3>把需求翻成設計合約</h3>
+          <ul>
+            <li>決定頁數、節奏、受眾、語氣、視覺系統。</li>
+            <li>把 reference template 轉成可執行的 page mapping。</li>
+            <li>輸出 <code>design_spec.md</code> 與 <code>spec_lock.md</code>。</li>
+          </ul>
+        </div>
+        <div class="role-card">
+          <div class="label">3. Executor</div>
+          <h3>逐頁把合約翻成畫面</h3>
+          <ul>
+            <li>依照 spec_lock 一頁一頁寫進 SVG。</li>
+            <li>保留 deck 一致性，同時處理不同頁型節奏。</li>
+            <li>不能脫離 contract 自由發揮新視覺語法。</li>
+          </ul>
+        </div>
+        <div class="role-card">
+          <div class="label">4. QA / Annotation</div>
+          <h3>把可用結果收斂成可信結果</h3>
+          <ul>
+            <li>quality gate 擋下格式與規格問題。</li>
+            <li>live preview 標註處理主觀視覺落差。</li>
+            <li>將「合格」進一步拉近到「符合期望」。</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="card panel fidelity-section">
+      <div class="section-kicker">Why Template Fidelity Was High</div>
+      <h2>為什麼這次生成結果能這麼貼近 DataEco layout</h2>
+      <div class="fidelity-grid">
+        <div class="fidelity">
+          <h3>Template 先被具體化</h3>
+          <p>
+            不是抽象地說「像 DataEco」，而是先把 reference deck staged 到 <code>templates/dataeco_reference</code>。
+            這讓 cover、quote-photo、ending 等頁型都變成具名可引用的版型語法。
+          </p>
+        </div>
+        <div class="fidelity">
+          <h3>Spec Lock 負責防止 drift</h3>
+          <p>
+            顏色、字體、page rhythm、page layout mapping 都被寫進 <code>spec_lock.md</code>。
+            Executor 每頁重讀，因此 deck 不會在中段逐漸偏離 template 系統。
+          </p>
+        </div>
+        <div class="fidelity">
+          <h3>標註迴圈把主觀偏差修回來</h3>
+          <p>
+            即使初版已經合格，封面、第二頁與結尾頁仍透過 annotation 回修，
+            把原本偏暗、偏空或不夠一致的頁面重新拉回白底綠色 DataEco 語法。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="card panel artifact-section">
+      <div class="section-kicker">Concrete Evidence</div>
+      <h2>這些檔案就是這次流程存在過的證據</h2>
+      <div class="artifact-grid">
+        <div class="artifact">
+          <h3>內容來源</h3>
+          <p><strong>sources/ai-devtools-outline-external.md</strong></p>
+          <p>證明 deck 不是臨場 freestyle，而是有固定來源可回看。</p>
+        </div>
+        <div class="artifact">
+          <h3>Reference 語法</h3>
+          <p><strong>templates/dataeco_reference/01_page_roster.md</strong></p>
+          <p>定義 cover、quote-photo、ending 等 reference 頁型名稱。</p>
+        </div>
+        <div class="artifact">
+          <h3>設計意圖</h3>
+          <p><strong>design_spec.md</strong></p>
+          <p>說明 visual theme、content outline、technical constraints。</p>
+        </div>
+        <div class="artifact">
+          <h3>執行合約</h3>
+          <p><strong>spec_lock.md</strong></p>
+          <p>鎖定顏色、字體、page rhythm 與 layout mapping。</p>
+        </div>
+        <div class="artifact">
+          <h3>頁面產物</h3>
+          <p><strong>svg_output/01_cover.svg ~ 07_closing_statement.svg</strong></p>
+          <p>是 Executor 逐頁落地後的中間產物，也是回修的工作面。</p>
+        </div>
+        <div class="artifact">
+          <h3>最終輸出</h3>
+          <p><strong>exports/*.pptx</strong></p>
+          <p>三次時間戳匯出顯示這不是一次定稿，而是可回追的迭代過程。</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const stages = [
+      {
+        phase: "01",
+        short: "Intake",
+        title: "Prompt 與 Source Intake",
+        blurb: "先定義任務，再定義內容來源。",
+        chips: ["scope", "source", "input"],
+        summary: "把使用者要做什麼、要說給誰聽、內容從哪裡來先說清楚。這次真正的內容底稿來自 AI 開發提示詞架構講稿與 imported outline。",
+        risk: "避免模型在沒有固定來源時同時擔任作者、編輯與設計師，導致內容與版型一起失控。",
+        inputs: [
+          "使用者 prompt：以 md 架構製作簡報，並對齊 DataEco template 氣質。",
+          "講稿內容：AI 協作治理、Karpathy 觀察、GitHub 提示詞專案。",
+          "輸出目標：7 頁內部治理簡報。"
+        ],
+        outputs: [
+          "明確主題與受眾。",
+          "穩定的 source baseline。",
+          "後續可進入序列化 pipeline。"
+        ]
+      },
+      {
+        phase: "02",
+        short: "Init",
+        title: "Project Initialization",
+        blurb: "先建立專案骨架，才有可追溯流程。",
+        chips: ["project", "structure", "workspace"],
+        summary: "建立專案目錄，把 sources、templates、svg_output、notes、exports、backup 分開。每個工作階段都會有自己的落地位置。",
+        risk: "避免所有中間產物都只留在聊天記憶裡，導致後續無法回修、比對與重跑。",
+        inputs: [
+          "project name：ai_devtools_governance",
+          "canvas：ppt169",
+          "repo 既有的 PPT Master 專案結構"
+        ],
+        outputs: [
+          "sources/",
+          "templates/",
+          "svg_output/、notes/、exports/、backup/"
+        ]
+      },
+      {
+        phase: "03",
+        short: "Template",
+        title: "Template Staging",
+        blurb: "把範例 deck 轉成可引用 reference。",
+        chips: ["template", "reference", "layout"],
+        summary: "DataEco example deck 不是直接拿來複製，而是先被整理成 reference bundle，包括頁型 roster 與圖片資產。",
+        risk: "避免只靠語意相似去猜 template，因為猜測最容易讓 layout fidelity 不穩。",
+        inputs: [
+          "templates/dataeco_reference/01_page_roster.md",
+          "55 個 DataEco reference SVG",
+          "reference_import_assets"
+        ],
+        outputs: [
+          "cover / quote-photo / ending 等頁型語法。",
+          "可被 Strategist 映射的 template surface。",
+          "專案內可重用的版型資產。"
+        ]
+      },
+      {
+        phase: "04",
+        short: "Strategy",
+        title: "Strategist Confirmations",
+        blurb: "把風格與頁面節奏先談清楚。",
+        chips: ["strategist", "decisions", "contract"],
+        summary: "Strategist 負責把 deck 想成一個有節奏的訊息系統，而不是單純排版。頁數、語氣、視覺系統與頁型分工都在這一步收斂。",
+        risk: "避免 Executor 一邊生成、一邊代替使用者做風格決策。",
+        inputs: [
+          "7 頁大綱",
+          "內部治理 / 管理層對齊使用情境",
+          "DataEco corporate minimalist business 方向"
+        ],
+        outputs: [
+          "頁面節奏：anchor / breathing / dense。",
+          "視覺方向：light, white-green, business-first。",
+          "後續 design_spec 與 spec_lock 的內容框架。"
+        ]
+      },
+      {
+        phase: "05",
+        short: "Contract",
+        title: "Design Contract Output",
+        blurb: "設計敘事與執行合約分離。",
+        chips: ["design_spec", "spec_lock", "anti-drift"],
+        summary: "這次最關鍵的是 design_spec 與 spec_lock 的分工。前者回答為什麼這樣設計，後者回答 Executor 每頁必須用什麼值。",
+        risk: "避免長 deck 生成到中段時顏色、字體、頁面結構開始鬆動。",
+        inputs: [
+          "design_spec.md：Visual Theme / Content Outline / Technical Constraints",
+          "spec_lock.md：colors / typography / page_rhythm / page_layouts",
+          "P01, P02, P07 對應 reference page"
+        ],
+        outputs: [
+          "人可讀的設計敘事。",
+          "機器可重讀的 execution contract。",
+          "layout fidelity 的主要保障。"
+        ]
+      },
+      {
+        phase: "06",
+        short: "Build",
+        title: "Executor Page Build",
+        blurb: "逐頁手寫 SVG，將 contract 翻成畫面。",
+        chips: ["executor", "svg", "page-by-page"],
+        summary: "Executor 每次只專注一頁，但不是孤立地做。它同時要維持整份 deck 的一致性，並讓每頁保有自己的節奏與敘事強度。",
+        risk: "避免用批次生成把所有頁面做成同一種卡片網格，失去 page rhythm。",
+        inputs: [
+          "spec_lock per-page re-read",
+          "reference page mapping",
+          "7 頁內容大綱"
+        ],
+        outputs: [
+          "01_cover.svg",
+          "02_why_it_matters.svg",
+          "03~07 其餘頁面 SVG"
+        ]
+      },
+      {
+        phase: "07",
+        short: "QA",
+        title: "Quality Gate 與 Annotation Loop",
+        blurb: "把合格結果收斂成符合期待的結果。",
+        chips: ["qa", "preview", "annotations"],
+        summary: "quality checker 處理硬規格問題，live preview annotation 處理風格偏差與人類判斷。兩者的作用不同，但都必須存在。",
+        risk: "避免只過機器檢查卻忽略視覺品質，也避免只靠主觀感受卻沒守住格式規範。",
+        inputs: [
+          "svg_quality_checker.py",
+          "使用者標註回饋",
+          "封面、第二頁、結尾頁的風格回修需求"
+        ],
+        outputs: [
+          "7/7 slides pass",
+          "annotation 清空",
+          "整體風格更加一致"
+        ]
+      },
+      {
+        phase: "08",
+        short: "Export",
+        title: "Finalize, Notes, Export",
+        blurb: "把中間產物固化成可編輯輸出。",
+        chips: ["notes", "export", "versioning"],
+        summary: "最後把 notes 拆頁、finalize SVG，並匯出成時間戳版 PPTX。這一步讓流程變成能交付、能追溯、能再修的正式產物。",
+        risk: "避免只有靜態視覺成果，卻缺少講稿、版本與後續迭代依據。",
+        inputs: [
+          "notes/total.md",
+          "total_md_split.py",
+          "svg_to_pptx.py"
+        ],
+        outputs: [
+          "01~07 per-slide notes",
+          "backup/20260528_*",
+          "exports/ai_devtools_governance_20260528_*.pptx"
+        ]
+      }
+    ];
+
+    let currentIndex = 0;
+    let timerId = null;
+
+    const stageGrid = document.getElementById("stageGrid");
+    const detailTitle = document.getElementById("detailTitle");
+    const detailChips = document.getElementById("detailChips");
+    const detailSummary = document.getElementById("detailSummary");
+    const detailRisk = document.getElementById("detailRisk");
+    const detailInputs = document.getElementById("detailInputs");
+    const detailOutputs = document.getElementById("detailOutputs");
+    const playBtn = document.getElementById("playBtn");
+    const resetBtn = document.getElementById("resetBtn");
+
+    function renderStages() {
+      stageGrid.innerHTML = "";
+
+      stages.forEach((stage, index) => {
+        const element = document.createElement("button");
+        element.className = "stage" + (index === currentIndex ? " active" : "");
+        element.innerHTML = "<small>Phase " + stage.phase + "</small><h3>" + stage.title + "</h3><p>" + stage.blurb + "</p>";
+        element.addEventListener("click", () => {
+          currentIndex = index;
+          stopAutoplay();
+          renderDetail();
+        });
+        stageGrid.appendChild(element);
+      });
+    }
+
+    function renderFlowPipeline() {
+      const pipeline = document.getElementById("flowPipeline");
+      if (!pipeline) return;
+      pipeline.innerHTML = "";
+      stages.forEach((stage, index) => {
+        const step = document.createElement("button");
+        step.className = "flow-step" +
+          (index === currentIndex ? " active" : "") +
+          (index < currentIndex ? " done" : "");
+        step.innerHTML =
+          '<span class="step-num">' + stage.phase + '</span>' +
+          '<span class="step-label">' + stage.short + '</span>';
+        step.addEventListener("click", () => {
+          currentIndex = index;
+          stopAutoplay();
+          renderDetail();
+        });
+        pipeline.appendChild(step);
+        if (index < stages.length - 1) {
+          const conn = document.createElement("div");
+          conn.className = "flow-connector" + (index < currentIndex ? " done" : "");
+          pipeline.appendChild(conn);
+        }
+      });
+      const activeStep = pipeline.querySelector(".flow-step.active");
+      if (activeStep) {
+        activeStep.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+      }
+    }
+
+    function renderDetail() {
+      const stage = stages[currentIndex];
+      renderStages();
+      renderFlowPipeline();
+      detailTitle.textContent = "Phase " + stage.phase + " · " + stage.title;
+      detailChips.innerHTML = stage.chips.map((chip) => "<span class=\"chip-panel\">" + chip + "</span>").join("");
+      detailSummary.textContent = stage.summary;
+      detailRisk.textContent = stage.risk;
+      detailInputs.innerHTML = stage.inputs.map((item) => "<li>" + item + "</li>").join("");
+      detailOutputs.innerHTML = stage.outputs.map((item) => "<li>" + item + "</li>").join("");
+    }
+
+    function stopAutoplay() {
+      if (timerId !== null) {
+        clearInterval(timerId);
+        timerId = null;
+      }
+      playBtn.textContent = "自動播放";
+    }
+
+    function toggleAutoplay() {
+      if (timerId !== null) {
+        stopAutoplay();
+        return;
+      }
+
+      playBtn.textContent = "停止播放";
+      timerId = window.setInterval(() => {
+        currentIndex = (currentIndex + 1) % stages.length;
+        renderDetail();
+      }, 2800);
+    }
+
+    playBtn.addEventListener("click", toggleAutoplay);
+    resetBtn.addEventListener("click", () => {
+      stopAutoplay();
+      currentIndex = 0;
+      renderDetail();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    renderDetail();
+  </script>
+</body>
+</html>

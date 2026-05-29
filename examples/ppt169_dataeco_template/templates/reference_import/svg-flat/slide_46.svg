@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="-0.0915" y1="0.1585" x2="1.0915" y2="0.8415"><stop offset="0" stop-color="#C3FFC0"/><stop offset="0.96" stop-color="#3BBB8E"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#9AE992"/><stop offset="0" stop-color="#009056"/><stop offset="0.34" stop-color="#00AA64"/></linearGradient><linearGradient id="ggrad3" x1="1.0396" y1="0.9528" x2="-0.0396" y2="0.0472"><stop offset="0.43" stop-color="#8CECBD"/><stop offset="1" stop-color="#3BBB8E"/><stop offset="0" stop-color="#F3FC78"/></linearGradient></defs><image href="../assets/image21.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="圓角矩形 3" transform="translate(786.57 207.33) scale(-1 1) translate(-786.57 -207.33)">
+<rect x="464.83" y="144.82" width="643.47" height="125.03" rx="7.82" ry="7.82" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="圓角矩形 4">
+<rect x="464.83" y="297.49" width="643.47" height="125.03" rx="7.82" ry="7.82" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="圓角矩形 5">
+<rect x="464.83" y="449.92" width="643.47" height="125.03" rx="7.82" ry="7.82" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="文字方塊 6">
+<rect x="475.26" y="229.47" width="262.12" height="27.47" fill="none"/>
+<text x="484.86" y="246.74" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="14.67">#3aba8d</tspan><tspan fill="#FFFFFF" font-size="14.67"> </tspan><tspan fill="#FFFFFF" font-size="14.67">—</tspan><tspan fill="#FFFFFF" font-size="14.67"> </tspan><tspan fill="#FFFFFF" font-size="14.67">#b4f7bb</tspan></text>
+</g>
+<g id="shape-8" data-name="文字方塊 7">
+<rect x="475.26" y="381.82" width="262.12" height="27.47" fill="none"/>
+<text x="484.86" y="399.09" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="14.67">#</tspan><tspan fill="#FFFFFF" font-size="14.67">01a964</tspan><tspan fill="#FFFFFF" font-size="14.67"> </tspan><tspan fill="#FFFFFF" font-size="14.67">— </tspan><tspan fill="#FFFFFF" font-size="14.67">#24b96e</tspan><tspan fill="#FFFFFF" font-size="14.67"> </tspan><tspan fill="#FFFFFF" font-size="14.67">—</tspan><tspan fill="#FFFFFF" font-size="14.67"> </tspan><tspan fill="#FFFFFF" font-size="14.67">#99e891</tspan></text>
+</g>
+<g id="shape-9" data-name="文字方塊 8">
+<rect x="475.26" y="534.17" width="262.12" height="27.47" fill="none"/>
+<text x="484.86" y="551.43" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="14.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="14.67">#3aba8d</tspan><tspan fill="#FFFFFF" font-size="14.67">— </tspan><tspan fill="#FFFFFF" font-size="14.67">#86e8b9 </tspan><tspan fill="#FFFFFF" font-size="14.67">— </tspan><tspan fill="#FFFFFF" font-size="14.67">#ebfa7d</tspan></text>
+</g>
+<g id="shape-11" data-name="Google Shape;517;p14">
+<rect x="168.27" y="70.75" width="373.72" height="103.53" fill="none" stroke="none"/>
+<text x="177.87" y="100.48" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="29.33" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="29.33" font-weight="bold">Gradient</tspan></text>
+</g></svg>

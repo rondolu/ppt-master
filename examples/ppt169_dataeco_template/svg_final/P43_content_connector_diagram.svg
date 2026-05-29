@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow3" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow4" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#00AA64"/></marker><marker id="marrow5" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#00AA64"/></marker><marker id="marrow6" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow7" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow8" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#D9D9D9"/></marker><marker id="marrow9" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#D9D9D9"/></marker><marker id="marrow10" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#D9D9D9"/></marker><marker id="marrow11" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow12" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow13" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow14" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow15" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow16" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow17" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow18" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow19" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow20" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow21" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow22" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow23" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow24" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow25" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow26" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow27" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow28" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow29" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow30" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow31" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow32" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#AFABAB"/></marker><marker id="marrow33" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#3BBB8E"/></marker><marker id="marrow34" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#009056"/></marker><marker id="marrow35" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#009056"/></marker></defs><image href="../images/reference_import_assets/image21.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="Google Shape;517;p14">
+<rect x="168.27" y="70.75" width="373.72" height="103.53" fill="none" stroke="none"/>
+<text x="177.87" y="100.48" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="29.33" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="29.33" font-weight="bold">Connector</tspan></text>
+</g>
+<g id="shape-47" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g>
+<g id="shape-61" data-name="Straight Arrow Connector 57">
+<line x1="561.56" y1="185.49" x2="561.56" y2="355.92" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow1)" marker-end="url(#marrow2)"/>
+</g>
+<g id="shape-59" data-name="Straight Arrow Connector 55">
+<line x1="269.49" y1="196.54" x2="507.72" y2="196.54" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#3BBB8E" stroke-dasharray="4 4" stroke-linejoin="miter"/>
+</g>
+<g id="shape-57" data-name="Straight Arrow Connector 53">
+<line x1="269.49" y1="270.7" x2="507.72" y2="270.7" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-end="url(#marrow3)"/>
+</g>
+<g id="shape-55" data-name="Straight Arrow Connector 51">
+<line x1="269.49" y1="344.86" x2="507.72" y2="344.86" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#00AA64" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow4)" marker-end="url(#marrow5)"/>
+</g>
+<g id="shape-75" data-name="Straight Arrow Connector 71">
+<line x1="561.56" y1="434.12" x2="561.56" y2="604.54" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-linejoin="miter" marker-start="url(#marrow6)" marker-end="url(#marrow7)"/>
+</g>
+<g id="shape-73" data-name="Straight Arrow Connector 69">
+<line x1="269.49" y1="445.17" x2="507.72" y2="445.17" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#D9D9D9" stroke-linejoin="miter"/>
+</g>
+<g id="shape-71" data-name="Straight Arrow Connector 67">
+<line x1="269.49" y1="593.49" x2="507.72" y2="593.49" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#D9D9D9" stroke-linejoin="miter" marker-start="url(#marrow8)" marker-end="url(#marrow9)"/>
+</g>
+<g id="shape-69" data-name="Straight Arrow Connector 65">
+<line x1="269.49" y1="519.33" x2="507.72" y2="519.33" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#D9D9D9" stroke-linejoin="miter" marker-end="url(#marrow10)"/>
+</g>
+<g id="shape-78" data-name="Straight Arrow Connector 54">
+<line x1="963.44" y1="457.32" x2="996.5" y2="457.38" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-end="url(#marrow11)"/>
+</g>
+<g id="shape-79" data-name="Straight Arrow Connector 55" transform="translate(1033.44 457.35) scale(-1 1) translate(-1033.44 -457.35)">
+<line x1="1016.91" y1="457.32" x2="1049.97" y2="457.38" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="round"/>
+</g>
+<g id="shape-80" data-name="Straight Arrow Connector 56">
+<line x1="688.62" y1="185.49" x2="875.14" y2="185.49" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#9AE992" stroke-dasharray="4 4" stroke-linejoin="miter"/>
+</g>
+<g id="shape-81" data-name="Elbow Connector 57">
+<rect x="693.47" y="564.43" width="86.27" height="42.74" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow12)" marker-end="url(#marrow13)" fill="#4472C4"/>
+</g>
+<g id="shape-82" data-name="Elbow Connector 58" transform="translate(840.57 585.8) scale(1 -1) translate(-840.57 -585.8)">
+<rect x="797.43" y="564.43" width="86.27" height="42.74" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" fill="#4472C4"/>
+</g>
+<g id="shape-83" data-name="Left Bracket 59" transform="rotate(180 950.75 457.49)">
+<rect x="937.52" y="424.65" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow14)" marker-end="url(#marrow15)" fill="#4472C4"/>
+</g>
+<g id="shape-84" data-name="Left Bracket 60" transform="rotate(180 1062.65 457.49) translate(1062.65 457.49) scale(-1 1) translate(-1062.65 -457.49)">
+<rect x="1049.42" y="424.65" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" fill="#4472C4"/>
+</g>
+<g id="shape-85" data-name="Group 61">
+<g id="shape-108" data-name="Straight Arrow Connector 84">
+<line x1="938.78" y1="218.22" x2="997.75" y2="218.22" fill="#00B8FF" stroke-width="2" stroke-linecap="square" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow16)" marker-end="url(#marrow17)"/>
+</g>
+<g id="shape-109" data-name="Left Bracket 85" transform="rotate(180 952.01 218.34)">
+<rect x="938.78" y="185.49" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow18)" marker-end="url(#marrow19)" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-86" data-name="Group 62" transform="translate(1046.94 218.34) scale(-1 1) translate(-1046.94 -218.34)">
+<g id="shape-106" data-name="Straight Arrow Connector 82">
+<line x1="1017.45" y1="218.22" x2="1076.43" y2="218.22" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="round"/>
+</g>
+<g id="shape-107" data-name="Left Bracket 83" transform="rotate(180 1030.69 218.34)">
+<rect x="1017.45" y="185.49" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-87" data-name="Group 63">
+<g id="shape-104" data-name="Straight Arrow Connector 80" transform="rotate(90 971.62 337.92) translate(971.62 337.92) scale(-1 1) translate(-971.62 -337.92)">
+<line x1="942.13" y1="337.92" x2="1001.11" y2="337.92" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow20)" marker-end="url(#marrow21)"/>
+</g>
+<g id="shape-105" data-name="Left Bracket 81" transform="rotate(270 971.62 354.17) translate(971.62 354.17) scale(-1 1) translate(-971.62 -354.17)">
+<rect x="958.39" y="321.32" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow22)" marker-end="url(#marrow23)" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-88" data-name="Group 64" transform="translate(1043.58 337.92) scale(1 -1) translate(-1043.58 -337.92)">
+<g id="shape-102" data-name="Straight Arrow Connector 78" transform="rotate(90 1043.58 337.92) translate(1043.58 337.92) scale(-1 1) translate(-1043.58 -337.92)">
+<line x1="1014.09" y1="337.92" x2="1073.07" y2="337.92" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="round"/>
+</g>
+<g id="shape-103" data-name="Left Bracket 79" transform="rotate(270 1043.58 354.17) translate(1043.58 354.17) scale(-1 1) translate(-1043.58 -354.17)">
+<rect x="1030.34" y="321.32" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-89" data-name="Group 65">
+<g id="shape-100" data-name="Straight Arrow Connector 76" transform="rotate(90 970.36 590.65)">
+<line x1="953.83" y1="590.62" x2="986.89" y2="590.68" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-end="url(#marrow24)"/>
+</g>
+<g id="shape-101" data-name="Left Bracket 77" transform="rotate(270 970.36 561.44)">
+<rect x="957.13" y="528.59" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow25)" marker-end="url(#marrow26)" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-90" data-name="Group 66">
+<g id="shape-98" data-name="Straight Arrow Connector 74" transform="rotate(90 1043.04 564.11) translate(1043.04 564.11) scale(-1 1) translate(-1043.04 -564.11)">
+<line x1="1026.51" y1="564.08" x2="1059.57" y2="564.15" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="round"/>
+</g>
+<g id="shape-99" data-name="Left Bracket 75" transform="rotate(270 1043.04 593.94) translate(1043.04 593.94) scale(-1 1) translate(-1043.04 -593.94)">
+<rect x="1029.81" y="561.09" width="26.47" height="65.69" stroke-width="2" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-91" data-name="Straight Arrow Connector 67">
+<line x1="782.14" y1="327.94" x2="782.14" y2="473.17" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow27)" marker-end="url(#marrow28)"/>
+</g>
+<g id="shape-92" data-name="Rectangle 81">
+<path d="M 737 328.53 L 737 376.52 L 688.75 376.5" fill="none" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow29)" marker-end="url(#marrow30)"/>
+</g>
+<g id="shape-93" data-name="Rectangle 81" transform="rotate(90 851.27 352.06)">
+<path d="M 875.39 328.07 L 875.39 376.06 L 827.15 376.04" fill="none" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="round"/>
+</g>
+<g id="shape-94" data-name="Rectangle 81" transform="rotate(270 712.93 449.05)">
+<path d="M 737.05 425.05 L 737.05 473.04 L 688.81 473.02" fill="none" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow31)" marker-end="url(#marrow32)"/>
+</g>
+<g id="shape-95" data-name="Rectangle 81" transform="rotate(180 851.33 449.18)">
+<path d="M 875.45 425.18 L 875.45 473.17 L 827.21 473.15" fill="none" stroke-width="2" stroke-linecap="butt" stroke="#AFABAB" stroke-dasharray="4 4" stroke-linejoin="round"/>
+</g>
+<g id="shape-96" data-name="Straight Arrow Connector 72">
+<line x1="688.75" y1="218.11" x2="875.27" y2="218.11" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#3BBB8E" stroke-dasharray="4 4" stroke-linejoin="miter" marker-end="url(#marrow33)"/>
+</g>
+<g id="shape-97" data-name="Straight Arrow Connector 73">
+<line x1="688.75" y1="251.7" x2="875.27" y2="251.7" fill="#00B8FF" stroke-width="2" stroke-linecap="butt" stroke="#009056" stroke-dasharray="4 4" stroke-linejoin="miter" marker-start="url(#marrow34)" marker-end="url(#marrow35)"/>
+</g>
+<g id="shape-3" data-name="圓角矩形 2">
+<rect x="330.27" y="182.86" width="116.68" height="27.36" rx="4.56" ry="4.56" fill="#3BBB8E" stroke="none" stroke-width="1"/>
+<text x="388.61" y="199.88" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-110" data-name="圓角矩形 109">
+<rect x="330.27" y="256.29" width="116.68" height="27.36" rx="4.56" ry="4.56" fill="#F3F3F3" stroke="none" stroke-width="1"/>
+<text x="388.61" y="273.3" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-111" data-name="圓角矩形 110">
+<rect x="330.27" y="329.64" width="116.68" height="27.36" rx="4.56" ry="4.56" fill="#00AA64" stroke="none" stroke-width="1"/>
+<text x="388.61" y="346.65" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-112" data-name="圓角矩形 111">
+<rect x="526.95" y="248.32" width="69.21" height="42.17" rx="7.03" ry="7.03" fill="#F3F3F3" stroke="none" stroke-width="1"/>
+<text x="561.56" y="272.74" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-113" data-name="圓角矩形 112">
+<rect x="330.27" y="431.16" width="116.68" height="27.36" rx="4.56" ry="4.56" fill="#F3FC78" stroke="none" stroke-width="1"/>
+<text x="388.61" y="448.17" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-114" data-name="圓角矩形 113">
+<rect x="330.27" y="505.65" width="116.68" height="27.36" rx="4.56" ry="4.56" fill="#6EDAA8" stroke="none" stroke-width="1"/>
+<text x="388.61" y="522.66" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-115" data-name="圓角矩形 114">
+<rect x="330.27" y="579.81" width="116.68" height="27.36" rx="4.56" ry="4.56" fill="#009056" stroke="none" stroke-width="1"/>
+<text x="388.61" y="596.82" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">content</tspan></text>
+</g>
+<g id="shape-116" data-name="圓角矩形 115">
+<rect x="526.95" y="486.48" width="69.21" height="65.69" rx="10.95" ry="10.95" fill="#F3F3F3" stroke="none" stroke-width="1"/>
+<text x="561.56" y="522.66" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">content</tspan></text>
+</g></svg>

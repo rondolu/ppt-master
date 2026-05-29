@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#000000" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="0.1" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#9AE992"/><stop offset="0" stop-color="#009056"/><stop offset="0.34" stop-color="#3BBB8E"/></linearGradient></defs><image href="../images/reference_import_assets/image21.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-5" data-name="Arc 8">
+<path d="M 434.62 327.54 A 237.81 237.81 0 0 1 721.68 131.69" stroke-width="2" stroke="#D9D9D9" stroke-dasharray="4 4" marker-start="url(#marrow1)" marker-end="url(#marrow2)" fill="#4472C4"/>
+</g>
+<g id="shape-6" data-name="Oval 9">
+<ellipse cx="666.46" cy="363.74" rx="173.32" ry="173.32" fill="#F5F3F5" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-8" data-name="Oval 12">
+<ellipse cx="501.06" cy="200.78" rx="36.79" ry="36.79" fill="#3BBB8E" stroke-width="10.667" stroke="#FFFFFF"/>
+<text x="501.06" y="207.45" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">2</tspan></text>
+</g>
+<g id="shape-9" data-name="Oval 13">
+<ellipse cx="501.06" cy="523.42" rx="36.79" ry="36.79" fill="#009056" stroke-width="10.667" stroke="#FFFFFF"/>
+<text x="501.06" y="530.09" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">1</tspan></text>
+</g>
+<g id="shape-10" data-name="Oval 14">
+<ellipse cx="835.28" cy="200.78" rx="36.79" ry="36.79" fill="#009056" stroke-width="10.667" stroke="#FFFFFF"/>
+<text x="835.28" y="207.45" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">3</tspan></text>
+</g>
+<g id="shape-11" data-name="Oval 15">
+<ellipse cx="835.28" cy="523.42" rx="36.79" ry="36.79" fill="#3BBB8E" stroke-width="10.667" stroke="#FFFFFF"/>
+<text x="835.28" y="530.09" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">4</tspan></text>
+</g>
+<g id="shape-20" data-name="Google Shape;512;p14">
+<rect x="164.73" y="186.79" width="235.42" height="128.28" fill="none" stroke="none"/>
+<text x="174.33" y="218.52" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明第二項內容</tspan><tspan x="174.33" dy="19.2" fill="#000000" font-size="16">contents contents.</tspan></text>
+
+</g>
+<g id="shape-21" data-name="圓角矩形 20">
+<rect x="161.02" y="136.42" width="235.42" height="45.81" rx="10.17" ry="10.17" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+<text x="278.74" y="163.99" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18.67" fill="#009056" font-weight="bold"><tspan fill="#009056" font-size="18.67" font-weight="bold">content</tspan></text>
+</g>
+<g id="shape-28" data-name="Google Shape;512;p14">
+<rect x="957.09" y="186.79" width="235.42" height="128.28" fill="none" stroke="none"/>
+<text x="966.69" y="218.52" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明第三項內容</tspan><tspan x="966.69" dy="19.2" fill="#000000" font-size="16">contents contents.</tspan></text>
+
+</g>
+<g id="shape-29" data-name="圓角矩形 28">
+<rect x="953.38" y="136.42" width="235.42" height="45.81" rx="10.17" ry="10.17" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+<text x="1071.09" y="163.99" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18.67" fill="#009056" font-weight="bold"><tspan fill="#009056" font-size="18.67" font-weight="bold">content</tspan></text>
+</g>
+<g id="shape-31" data-name="Google Shape;512;p14">
+<rect x="164.73" y="481.62" width="235.42" height="128.28" fill="none" stroke="none"/>
+<text x="174.33" y="513.35" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明第一項內容</tspan><tspan x="174.33" dy="19.2" fill="#000000" font-size="16">contents contents.</tspan></text>
+
+</g>
+<g id="shape-32" data-name="圓角矩形 31">
+<rect x="161.02" y="431.25" width="235.42" height="45.81" rx="10.17" ry="10.17" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+<text x="278.74" y="458.82" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18.67" fill="#009056" font-weight="bold"><tspan fill="#009056" font-size="18.67" font-weight="bold">content</tspan></text>
+</g>
+<g id="shape-33" data-name="Google Shape;512;p14">
+<rect x="957.09" y="481.62" width="235.42" height="128.28" fill="none" stroke="none"/>
+<text x="966.69" y="513.35" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">請在</tspan><tspan fill="#000000" font-size="16">這裡說明第四項內容</tspan><tspan x="966.69" dy="19.2" fill="#000000" font-size="16">contents contents.</tspan></text>
+
+</g>
+<g id="shape-34" data-name="圓角矩形 33">
+<rect x="953.38" y="431.25" width="235.42" height="45.81" rx="10.17" ry="10.17" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+<text x="1071.09" y="458.82" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="18.67" fill="#009056" font-weight="bold"><tspan fill="#009056" font-size="18.67" font-weight="bold">content</tspan></text>
+</g>
+<g id="shape-19" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g>
+<g id="shape-22" data-name="橢圓 21">
+<ellipse cx="667.48" cy="363.74" rx="154.7" ry="154.7" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+<text x="667.48" y="369.74" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">PROJECT</tspan></text>
+</g></svg>

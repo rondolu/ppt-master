@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><image href="../images/reference_import_assets/image20.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="Google Shape;517;p14">
+<rect x="168.27" y="70.75" width="373.72" height="103.53" fill="none" stroke="none"/>
+<text x="177.87" y="100.48" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="29.33" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="29.33" font-weight="bold">TITLE</tspan></text>
+</g>
+<g id="shape-6" data-name="Google Shape;512;p14">
+<rect x="168.27" y="139.07" width="373.72" height="92.03" fill="none" stroke="none"/>
+<text x="177.87" y="177.6" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明長條圖的內容</tspan><tspan x="177.87" dy="28.8" fill="#000000" font-size="24">contents contents.</tspan></text>
+</g>
+<g id="shape-22" data-name="Chart 10">
+<rect x="162.12" y="252.38" width="1039.52" height="243.91" fill="none" stroke="#999999" stroke-dasharray="4 4"/><text x="681.88" y="374.33" text-anchor="middle" font-size="14" fill="#999999">[chart]</text>
+</g>
+<g id="shape-23" data-name="Rounded Rectangle 11">
+<rect x="267.08" y="524.75" width="66.42" height="66.42" rx="11.07" ry="11.07" fill="#009056" stroke="none" stroke-dasharray="1 3" stroke-width="1"/>
+</g>
+<g id="shape-24" data-name="TextBox 12">
+<rect x="343.65" y="536.96" width="202.84" height="42.01" fill="none"/>
+<text x="353.25" y="553.09" text-anchor="start" xml:space="preserve" font-family="&quot;Open Sans&quot;, sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">Lid est laborum dolo rumes </tspan><tspan x="353.25" dy="16" fill="#808080" font-size="13.33">fugats untras. </tspan></text>
+</g>
+<g id="shape-25" data-name="Rounded Rectangle 13">
+<rect x="588.58" y="524.75" width="66.42" height="66.42" rx="11.07" ry="11.07" fill="#3BBB8E" stroke="none" stroke-dasharray="1 3" stroke-width="1"/>
+</g>
+<g id="shape-26" data-name="TextBox 14">
+<rect x="665.15" y="536.96" width="202.84" height="42.01" fill="none"/>
+<text x="674.75" y="553.09" text-anchor="start" xml:space="preserve" font-family="&quot;Open Sans&quot;, sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">Lid est laborum dolo rumes </tspan><tspan x="674.75" dy="16" fill="#808080" font-size="13.33">fugats untras. </tspan></text>
+</g>
+<g id="shape-27" data-name="Rounded Rectangle 15">
+<rect x="922.22" y="524.75" width="66.42" height="66.42" rx="11.07" ry="11.07" fill="#9AE992" stroke="none" stroke-dasharray="1 3" stroke-width="1"/>
+</g>
+<g id="shape-28" data-name="TextBox 16">
+<rect x="998.8" y="536.96" width="202.84" height="42.01" fill="none"/>
+<text x="1008.4" y="553.09" text-anchor="start" xml:space="preserve" font-family="&quot;Open Sans&quot;, sans-serif" font-size="13.33" fill="#808080"><tspan fill="#808080" font-size="13.33">Lid est laborum dolo rumes </tspan><tspan x="1008.4" dy="16" fill="#808080" font-size="13.33">fugats untras. </tspan></text>
+</g>
+<g id="shape-12" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g></svg>

@@ -1,0 +1,1410 @@
+{
+  "source": {
+    "pptx": "C:\\Users\\00905847\\ppt-master-main\\ppt-master-main\\examples\\ppt169_glassmorphism_demo\\exports\\glassmorphism_demo.pptx",
+    "name": "glassmorphism_demo.pptx"
+  },
+  "slideSize": {
+    "width_emu": 12192000,
+    "height_emu": 6858000,
+    "width_px": 1280,
+    "height_px": 720
+  },
+  "theme": {
+    "colors": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fonts": {
+      "majorLatin": "Calibri",
+      "minorLatin": "Calibri"
+    }
+  },
+  "assets": {
+    "exportDir": "assets",
+    "commonAssets": [],
+    "allAssets": [
+      "image_0e459a410938de29.png",
+      "image_3037125bd54c4adf.png",
+      "image_30f1b551f3f67e45.png",
+      "image_64af89fc7c4bc5f3.png",
+      "image_76dd7c11352e0cfe.png",
+      "image_7e7c1822570c7d79.png",
+      "image_8117dc4322c61d7d.png",
+      "image_98de0ce79bc72078.png"
+    ],
+    "assetMap": {
+      "ppt/media/image_98de0ce79bc72078.png": "image_98de0ce79bc72078.png",
+      "ppt/media/image_76dd7c11352e0cfe.png": "image_76dd7c11352e0cfe.png",
+      "ppt/media/image_0e459a410938de29.png": "image_0e459a410938de29.png",
+      "ppt/media/image_64af89fc7c4bc5f3.png": "image_64af89fc7c4bc5f3.png",
+      "ppt/media/image_8117dc4322c61d7d.png": "image_8117dc4322c61d7d.png",
+      "ppt/media/image_3037125bd54c4adf.png": "image_3037125bd54c4adf.png",
+      "ppt/media/image_30f1b551f3f67e45.png": "image_30f1b551f3f67e45.png",
+      "ppt/media/image_7e7c1822570c7d79.png": "image_7e7c1822570c7d79.png"
+    }
+  },
+  "pageTypeCandidates": {
+    "content_candidate": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "cover_candidate": [
+      1
+    ],
+    "ending_candidate": [
+      12
+    ]
+  },
+  "layouts": [
+    {
+      "path": "ppt/slideLayouts/slideLayout1.xml",
+      "name": "slideLayout1.xml",
+      "svgFile": "layout_01_slideLayout1.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "ctrTitle",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 72,
+            "y": 224,
+            "width": 816,
+            "height": 154
+          },
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "subTitle",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 144,
+            "y": 408,
+            "width": 672,
+            "height": 184
+          },
+          "textSamples": [
+            "Click to edit Master subtitle style"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master subtitle style",
+        "1/27/13",
+        "‹#›"
+      ],
+      "textCount": 4,
+      "shapeCount": 7,
+      "usedBySlides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout2.xml",
+      "name": "slideLayout2.xml",
+      "svgFile": "layout_02_slideLayout2.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level",
+        "Fifth level"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout3.xml",
+      "name": "slideLayout3.xml",
+      "svgFile": "layout_03_slideLayout3.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 76,
+            "y": 463,
+            "width": 816,
+            "height": 143
+          },
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 76,
+            "y": 305,
+            "width": 816,
+            "height": 157
+          },
+          "textSamples": [
+            "Click to edit Master text styles"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "1/27/13",
+        "‹#›"
+      ],
+      "textCount": 4,
+      "shapeCount": 7,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout4.xml",
+      "name": "slideLayout4.xml",
+      "svgFile": "layout_04_slideLayout4.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "1",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 168,
+            "width": 424,
+            "height": 475
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 488,
+            "y": 168,
+            "width": 424,
+            "height": 475
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level",
+        "Fifth level"
+      ],
+      "textCount": 13,
+      "shapeCount": 8,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout5.xml",
+      "name": "slideLayout5.xml",
+      "svgFile": "layout_05_slideLayout5.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 161,
+            "width": 424,
+            "height": 67
+          },
+          "textSamples": [
+            "Click to edit Master text styles"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 228,
+            "width": 424,
+            "height": 415
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 488,
+            "y": 161,
+            "width": 424,
+            "height": 67
+          },
+          "textSamples": [
+            "Click to edit Master text styles"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 488,
+            "y": 228,
+            "width": 424,
+            "height": 415
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level"
+      ],
+      "textCount": 15,
+      "shapeCount": 10,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout6.xml",
+      "name": "slideLayout6.xml",
+      "svgFile": "layout_06_slideLayout6.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "1/27/13",
+        "‹#›"
+      ],
+      "textCount": 3,
+      "shapeCount": 6,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout7.xml",
+      "name": "slideLayout7.xml",
+      "svgFile": "layout_07_slideLayout7.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "1/27/13",
+        "‹#›"
+      ],
+      "textCount": 2,
+      "shapeCount": 5,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout8.xml",
+      "name": "slideLayout8.xml",
+      "svgFile": "layout_08_slideLayout8.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 29,
+            "width": 316,
+            "height": 122
+          },
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 375,
+            "y": 29,
+            "width": 537,
+            "height": 615
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 151,
+            "width": 316,
+            "height": 493
+          },
+          "textSamples": [
+            "Click to edit Master text styles"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level",
+        "Fifth level"
+      ],
+      "textCount": 9,
+      "shapeCount": 8,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout9.xml",
+      "name": "slideLayout9.xml",
+      "svgFile": "layout_09_slideLayout9.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 188,
+            "y": 504,
+            "width": 576,
+            "height": 60
+          },
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "pic",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 188,
+            "y": 64,
+            "width": 576,
+            "height": 432
+          },
+          "textSamples": []
+        },
+        {
+          "type": "body",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 188,
+            "y": 564,
+            "width": 576,
+            "height": 84
+          },
+          "textSamples": [
+            "Click to edit Master text styles"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "1/27/13",
+        "‹#›"
+      ],
+      "textCount": 4,
+      "shapeCount": 8,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout10.xml",
+      "name": "slideLayout10.xml",
+      "svgFile": "layout_10_slideLayout10.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": "vert",
+          "geometry": null,
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level",
+        "Fifth level"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout11.xml",
+      "name": "slideLayout11.xml",
+      "svgFile": "layout_11_slideLayout11.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": "vert",
+          "geometry": {
+            "x": 696,
+            "y": 29,
+            "width": 216,
+            "height": 614
+          },
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": "vert",
+          "geometry": {
+            "x": 48,
+            "y": 29,
+            "width": 632,
+            "height": 614
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level",
+        "Fifth level"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": []
+    }
+  ],
+  "masters": [
+    {
+      "path": "ppt/slideMasters/slideMaster1.xml",
+      "name": "slideMaster1.xml",
+      "svgFile": "master_01_slideMaster1.svg",
+      "parentPath": null,
+      "themePath": "ppt/theme/theme1.xml",
+      "theme": {
+        "colors": {
+          "dk1": "#000000",
+          "lt1": "#FFFFFF",
+          "dk2": "#1F497D",
+          "lt2": "#EEECE1",
+          "accent1": "#4F81BD",
+          "accent2": "#C0504D",
+          "accent3": "#9BBB59",
+          "accent4": "#8064A2",
+          "accent5": "#4BACC6",
+          "accent6": "#F79646",
+          "hlink": "#0000FF",
+          "folHlink": "#800080"
+        },
+        "fonts": {
+          "majorLatin": "Calibri",
+          "minorLatin": "Calibri"
+        }
+      },
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 29,
+            "width": 864,
+            "height": 120
+          },
+          "textSamples": [
+            "Click to edit Master title style"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 168,
+            "width": 864,
+            "height": 475
+          },
+          "textSamples": [
+            "Click to edit Master text styles",
+            "Second level"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 48,
+            "y": 667,
+            "width": 224,
+            "height": 38
+          },
+          "textSamples": [
+            "1/27/13"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 328,
+            "y": 667,
+            "width": 304,
+            "height": 38
+          },
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 688,
+            "y": 667,
+            "width": 224,
+            "height": 38
+          },
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "Click to edit Master title style",
+        "Click to edit Master text styles",
+        "Second level",
+        "Third level",
+        "Fourth level",
+        "Fifth level"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "name": "slide1.xml",
+      "svgFile": "slide_01.svg",
+      "flatSvgFile": "slide_01.svg",
+      "slidePath": "ppt/slides/slide1.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_30f1b551f3f67e45.png"
+      ],
+      "textSamples": [
+        "TECH TALK · 2026",
+        "AI AGENT · ENGINEERING IN PRODUCTION",
+        "AI Agent 工程化",
+        "从 Demo 到生产 — 需要的不只是大模型",
+        "2026 · 技术分享系列",
+        "01 / 12"
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "cover_candidate"
+    },
+    {
+      "index": 2,
+      "name": "slide2.xml",
+      "svgFile": "slide_02.svg",
+      "flatSvgFile": "slide_02.svg",
+      "slidePath": "ppt/slides/slide2.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_3037125bd54c4adf.png"
+      ],
+      "textSamples": [
+        "FROM DEMO TO PRODUCTION",
+        "90%",
+        "的 Agent 项目",
+        "止步于 Demo",
+        "真正进入生产，需要跨越四道工程化门槛",
+        "架构"
+      ],
+      "textCount": 6,
+      "shapeCount": 8,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 3,
+      "name": "slide3.xml",
+      "svgFile": "slide_03.svg",
+      "flatSvgFile": "slide_03.svg",
+      "slidePath": "ppt/slides/slide3.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "三道阻碍 Agent 落地的现实门槛",
+        "PERFORMANCE · COST · QUALITY — THREE BARRIERS BETWEEN DEMO AND PRODUCTION",
+        "PERFORMANCE",
+        "性能不稳定",
+        "多步推理累积误差",
+        "每一步 LLM 调用都有 5-10% 抖动，"
+      ],
+      "textCount": 6,
+      "shapeCount": 8,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 4,
+      "name": "slide4.xml",
+      "svgFile": "slide_04.svg",
+      "flatSvgFile": "slide_04.svg",
+      "slidePath": "ppt/slides/slide4.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_8117dc4322c61d7d.png"
+      ],
+      "textSamples": [
+        "Agent 的四层骨架",
+        "PERCEPTION · REASONING · ACTION · MEMORY",
+        "L1 · PERCEPTION",
+        "感知层",
+        "输入解析",
+        "用户意图分类、槽位抽取"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 5,
+      "name": "slide5.xml",
+      "svgFile": "slide_05.svg",
+      "flatSvgFile": "slide_05.svg",
+      "slidePath": "ppt/slides/slide5.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "CHOOSING THE RIGHT PATTERN",
+        "Workflow · Agent · Multi-Agent — 选哪种?",
+        "三种主流模式按\"路径确定性\"递增 — 灵活性越高,工程化代价越大",
+        "PATTERN A",
+        "Workflow",
+        "DETERMINISTIC"
+      ],
+      "textCount": 6,
+      "shapeCount": 8,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 6,
+      "name": "slide6.xml",
+      "svgFile": "slide_06.svg",
+      "flatSvgFile": "slide_06.svg",
+      "slidePath": "ppt/slides/slide6.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_64af89fc7c4bc5f3.png"
+      ],
+      "textSamples": [
+        "让工具调用从\"能跑\"到\"稳跑\"",
+        "TOOL ORCHESTRATION · A SIX-STEP DISCIPLINE",
+        "01",
+        "解析任务",
+        "拆解用户意图",
+        "明确目标和约束"
+      ],
+      "textCount": 6,
+      "shapeCount": 12,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 7,
+      "name": "slide7.xml",
+      "svgFile": "slide_07.svg",
+      "flatSvgFile": "slide_07.svg",
+      "slidePath": "ppt/slides/slide7.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_98de0ce79bc72078.png"
+      ],
+      "textSamples": [
+        "上下文,才是 Agent 真正的\"权重\"",
+        "CONTEXT ENGINEERING · 1 CORE + 6 CAPABILITIES",
+        "CONTEXT",
+        "ENGINEERING",
+        "检索",
+        "RAG · 向量召回 · BM25 混排"
+      ],
+      "textCount": 6,
+      "shapeCount": 14,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 8,
+      "name": "slide8.xml",
+      "svgFile": "slide_08.svg",
+      "flatSvgFile": "slide_08.svg",
+      "slidePath": "ppt/slides/slide8.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_76dd7c11352e0cfe.png"
+      ],
+      "textSamples": [
+        "上生产前,先把四张表盘装上",
+        "KPI DASHBOARD · WEEKLY ROLLUP",
+        "LIVE · W12",
+        "ACCURACY",
+        "任务成功率",
+        "92.4"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 9,
+      "name": "slide9.xml",
+      "svgFile": "slide_09.svg",
+      "flatSvgFile": "slide_09.svg",
+      "slidePath": "ppt/slides/slide9.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "持续优化的真实曲线 —",
+        "准确率 ↑",
+        "成本 ↓",
+        "UPLINE TO PRODUCTION · 12-WEEK TREND",
+        "60%",
+        "70%"
+      ],
+      "textCount": 6,
+      "shapeCount": 8,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 10,
+      "name": "slide10.xml",
+      "svgFile": "slide_10.svg",
+      "flatSvgFile": "slide_10.svg",
+      "slidePath": "ppt/slides/slide10.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_7e7c1822570c7d79.png"
+      ],
+      "textSamples": [
+        "这四类失败,你最先会遇到哪个",
+        "FAILURE MODES · FREQUENCY × DETECTION DIFFICULTY",
+        "SHALLOW · 表面易识",
+        "DEEP · 隐蔽难定位",
+        "HIGH · 高频",
+        "LOW · 低频"
+      ],
+      "textCount": 6,
+      "shapeCount": 10,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 11,
+      "name": "slide11.xml",
+      "svgFile": "slide_11.svg",
+      "flatSvgFile": "slide_11.svg",
+      "slidePath": "ppt/slides/slide11.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "从原型到生产 — 12 周分四阶段",
+        "ROADMAP · PROTOTYPE → ENGINEERING → SCALE → PRODUCTION",
+        "W1 — W3",
+        "STAGE 01 · PROTOTYPE",
+        "原型 — 单一任务跑通",
+        "最小工具集 · prompt 初稿 · 5-10 个金标准 case 验证"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 12,
+      "name": "slide12.xml",
+      "svgFile": "slide_12.svg",
+      "flatSvgFile": "slide_12.svg",
+      "slidePath": "ppt/slides/slide12.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image_0e459a410938de29.png"
+      ],
+      "textSamples": [
+        "YOUR TURN",
+        "下一个 Agent",
+        "从工程化开始",
+        "不是\"加个 LLM\",是把 LLM 真正装进系统",
+        "开始 Agent 工程化",
+        "寻求合作"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "ending_candidate"
+    }
+  ]
+}

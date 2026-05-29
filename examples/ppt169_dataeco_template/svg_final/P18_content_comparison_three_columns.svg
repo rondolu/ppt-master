@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><image href="../images/reference_import_assets/image21.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="Google Shape;517;p14">
+<rect x="168.27" y="70.75" width="373.72" height="103.53" fill="none" stroke="none"/>
+<text x="177.87" y="100.48" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="29.33" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="29.33" font-weight="bold">TITLE</tspan></text>
+</g>
+<g id="shape-8" data-name="Group 13">
+<g id="shape-9" data-name="Oval 35">
+<ellipse cx="739.45" cy="371.27" rx="188.32" ry="188.32" fill="#6EDAA8" fill-opacity="0.7412" stroke="none" stroke-width="1"/>
+<text x="739.45" y="379.27" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="32" fill="#1C7777"><tspan fill="#1C7777" font-size="32">A</tspan></text>
+</g>
+<g id="shape-10" data-name="Oval 40">
+<ellipse cx="976.43" cy="371.27" rx="188.32" ry="188.32" fill="#9AE992" fill-opacity="0.698" stroke="none" stroke-width="1"/>
+<text x="976.43" y="379.27" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="32" fill="#1C7777"><tspan fill="#1C7777" font-size="32">B</tspan></text>
+</g>
+<g id="shape-11" data-name="Freeform 45">
+<path d="M 857.94 224.98 L 859.24 225.95 C 901.09 260.49 927.77 312.77 927.77 371.27 C 927.77 429.77 901.09 482.04 859.24 516.58 L 857.94 517.55 L 856.64 516.58 C 814.79 482.04 788.11 429.77 788.11 371.27 C 788.11 312.77 814.79 260.49 856.64 225.95 L 857.94 224.98 Z" fill="#00AA64" stroke="none" stroke-width="1"/>
+<text x="857.94" y="379.27" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">C</tspan></text>
+</g>
+</g>
+<g id="shape-16" data-name="Google Shape;512;p14">
+<rect x="168.27" y="139.07" width="373.72" height="92.03" fill="none" stroke="none"/>
+<text x="177.87" y="177.6" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明表格內容</tspan><tspan x="177.87" dy="28.8" fill="#000000" font-size="24">contents contents.</tspan></text>
+</g>
+<g id="shape-13" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g></svg>

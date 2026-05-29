@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><image href="../images/reference_import_assets/image21.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="Google Shape;517;p14">
+<rect x="168.27" y="70.75" width="373.72" height="103.53" fill="none" stroke="none"/>
+<text x="177.87" y="100.48" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="29.33" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="29.33" font-weight="bold">TITLE</tspan></text>
+</g>
+<g id="shape-5" data-name="圖片 4">
+<image href="../images/reference_import_assets/image39.jpeg" x="625.26" y="0" width="654.74" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-6" data-name="Google Shape;512;p14">
+<rect x="168.27" y="139.07" width="373.72" height="92.03" fill="none" stroke="none"/>
+<text x="177.87" y="177.6" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">請在</tspan><tspan fill="#000000" font-size="24">這裡說明圖片內容</tspan><tspan x="177.87" dy="28.8" fill="#000000" font-size="24">contents contents.</tspan></text>
+</g>
+<g id="shape-7" data-name="圓角矩形 6">
+<rect x="168.27" y="457.88" width="373.72" height="164.22" rx="7.17" ry="7.17" fill="#F5F3F5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="Google Shape;512;p14">
+<rect x="189.09" y="480.62" width="332.09" height="110.09" fill="none" stroke="none"/>
+<text x="198.69" y="509.68" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">如果有需要字框補充說明 這裡可以補充</tspan></text>
+<text x="198.69" y="536.35" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">如果有需要字框補充說明</tspan></text>
+
+</g>
+<g id="shape-10" data-name="Google Shape;645;p22" transform="rotate(90 48.06 185.99)">
+<rect x="-109.55" y="169.42" width="315.22" height="33.14" fill="none" stroke="none"/>
+<text x="-99.95" y="187.82" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="16" letter-spacing="1.33">Tittle</tspan></text>
+</g>
+<g id="shape-3" data-name="圖片 2">
+<image href="../images/reference_import_assets/image40.jpeg" x="625.26" y="0" width="654.74" height="720" preserveAspectRatio="none"/>
+</g></svg>

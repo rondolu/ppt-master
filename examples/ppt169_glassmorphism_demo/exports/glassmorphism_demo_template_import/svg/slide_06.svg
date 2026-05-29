@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#0A0E27" stop-opacity="0.62"/><stop offset="1" stop-color="#0A0E27" stop-opacity="0.78"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#5B8DEF"/><stop offset="0.5" stop-color="#A26BFA"/><stop offset="1" stop-color="#3DDDFC"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#1A2150" stop-opacity="0.78"/><stop offset="1" stop-color="#1A2150" stop-opacity="0.4"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.32"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><linearGradient id="ggrad5" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#1A2150" stop-opacity="0.78"/><stop offset="1" stop-color="#1A2150" stop-opacity="0.4"/></linearGradient><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.32"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><linearGradient id="ggrad7" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#1A2150" stop-opacity="0.78"/><stop offset="1" stop-color="#1A2150" stop-opacity="0.4"/></linearGradient><linearGradient id="ggrad8" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.32"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><linearGradient id="ggrad9" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#1A2150" stop-opacity="0.78"/><stop offset="1" stop-color="#1A2150" stop-opacity="0.4"/></linearGradient><linearGradient id="ggrad10" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.32"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><linearGradient id="ggrad11" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#1A2150" stop-opacity="0.78"/><stop offset="1" stop-color="#1A2150" stop-opacity="0.4"/></linearGradient><linearGradient id="ggrad12" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.32"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><linearGradient id="ggrad13" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B8DEF" stop-opacity="0.65"/><stop offset="1" stop-color="#A26BFA" stop-opacity="0.45"/></linearGradient><linearGradient id="ggrad14" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.32"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs><g id="shape-5" data-name="Group 5">
+<g id="shape-2" data-name="Rectangle 2">
+<rect x="0" y="0" width="1280" height="720" fill="#0A0E27" stroke="none"/>
+</g>
+<g id="shape-3" data-name="Image 3">
+<image href="../assets/image_64af89fc7c4bc5f3.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="Rectangle 4">
+<rect x="0" y="0" width="1280" height="720" fill="url(#ggrad1)" stroke="none"/>
+</g>
+</g>
+<g id="shape-9" data-name="Group 9">
+<g id="shape-6" data-name="Rectangle 6">
+<rect x="60" y="50" width="6" height="32" rx="3" ry="3" fill="url(#ggrad2)" stroke="none"/>
+</g>
+<g id="shape-7" data-name="TextBox 7">
+<rect x="76.6" y="47.1" width="548.73" height="54.4" fill="none" stroke="none"/>
+<text x="76.6" y="76" text-anchor="start" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="34" fill="#E8ECFF" font-weight="bold"><tspan fill="#E8ECFF" font-size="34" font-weight="bold">让工具调用从&quot;能跑&quot;到&quot;稳跑&quot;</tspan></text>
+</g>
+<g id="shape-8" data-name="TextBox 8">
+<rect x="78.6" y="96.1" width="364.57" height="22.4" fill="none" stroke="none"/>
+<text x="78.6" y="108" text-anchor="start" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#A8B0D0" font-weight="bold"><tspan fill="#A8B0D0" font-size="14" font-weight="bold">TOOL ORCHESTRATION · A SIX-STEP DISCIPLINE</tspan></text>
+</g>
+</g>
+<g id="shape-11" data-name="Group 11">
+<g id="shape-10" data-name="Line 10">
+<path d="M 60 200 L 1220 200" fill="none" stroke-width="2" stroke="#5B8DEF" stroke-opacity="0" stroke-dasharray="6 6"/>
+</g>
+</g>
+<g id="shape-27" data-name="Group 27">
+<g id="shape-12" data-name="Ellipse 12">
+<ellipse cx="145" cy="200" rx="22" ry="22" fill="#0A0E27" stroke-width="2" stroke="#5B8DEF"/>
+</g>
+<g id="shape-13" data-name="TextBox 13">
+<rect x="136.42" y="195.1" width="17.17" height="22.4" fill="none" stroke="none"/>
+<text x="145" y="207" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#5B8DEF" font-weight="bold"><tspan fill="#5B8DEF" font-size="14" font-weight="bold">01</tspan></text>
+</g>
+<g id="shape-14" data-name="Rectangle 14">
+<rect x="60" y="244" width="170" height="356" rx="16" ry="16" fill="url(#ggrad3)" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</g>
+<g id="shape-15" data-name="Rectangle 15">
+<rect x="78" y="245" width="134" height="1" fill="url(#ggrad4)" stroke="none"/>
+</g>
+<g id="shape-18" data-name="Group 18">
+<g id="shape-16" data-name="Freeform 16">
+<path d="M 155 287.5 C 155 294.4 149.4 300 142.5 300 C 135.6 300 130 294.4 130 287.5 C 130 280.6 135.6 275 142.5 275 C 149.4 275 155 280.6 155 287.5 Z" fill="#5B8DEF" fill-opacity="0.2" stroke="none"/>
+</g>
+<g id="shape-17" data-name="Freeform 17">
+<path d="M 160.88 304.12 L 153.06 296.29 C 157.78 290.63 157.21 282.26 151.77 277.29 C 146.34 272.32 137.95 272.51 132.74 277.72 C 127.52 282.93 127.33 291.31 132.29 296.76 C 137.26 302.2 145.63 302.77 151.29 298.06 L 159.12 305.88 C 159.6 306.37 160.4 306.37 160.88 305.88 C 161.37 305.4 161.37 304.6 160.88 304.12 Z M 131.25 287.5 C 131.25 281.29 136.29 276.25 142.5 276.25 C 148.71 276.25 153.75 281.29 153.75 287.5 C 153.75 293.71 148.71 298.75 142.5 298.75 C 136.29 298.74 131.26 293.71 131.25 287.5 Z" fill="#5B8DEF" stroke="none"/>
+</g>
+</g>
+<g id="shape-19" data-name="TextBox 19">
+<rect x="99.73" y="330.7" width="90.54" height="28.8" fill="none" stroke="none"/>
+<text x="145" y="346" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#E8ECFF" font-weight="bold"><tspan fill="#E8ECFF" font-size="18" font-weight="bold">解析任务</tspan></text>
+</g>
+<g id="shape-20" data-name="Line 20">
+<path d="M 92 368 L 198 368" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.16"/>
+</g>
+<g id="shape-21" data-name="TextBox 21">
+<rect x="98.85" y="392.95" width="92.3" height="20.8" fill="none" stroke="none"/>
+<text x="145" y="404" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">拆解用户意图</tspan></text>
+</g>
+<g id="shape-22" data-name="TextBox 22">
+<rect x="91.38" y="413.95" width="107.25" height="20.8" fill="none" stroke="none"/>
+<text x="145" y="425" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">明确目标和约束</tspan></text>
+</g>
+<g id="shape-23" data-name="TextBox 23">
+<rect x="124.64" y="463.95" width="40.72" height="20.8" fill="none" stroke="none"/>
+<text x="145" y="475" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">输出:</tspan></text>
+</g>
+<g id="shape-24" data-name="TextBox 24">
+<rect x="97.11" y="486.1" width="95.78" height="22.4" fill="none" stroke="none"/>
+<text x="145" y="498" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="14" font-weight="bold">subtasks[]</tspan></text>
+</g>
+<g id="shape-25" data-name="Rectangle 25">
+<rect x="80" y="560" width="130" height="24" rx="12" ry="12" fill="#5B8DEF" fill-opacity="0.2" stroke-width="1" stroke="#5B8DEF" stroke-opacity="0.5"/>
+</g>
+<g id="shape-26" data-name="TextBox 26">
+<rect x="129.29" y="567.65" width="31.42" height="17.6" fill="none" stroke="none"/>
+<text x="145" y="577" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#5B8DEF" font-weight="bold"><tspan fill="#5B8DEF" font-size="11" font-weight="bold">PLAN</tspan></text>
+</g>
+</g>
+<g id="shape-43" data-name="Group 43">
+<g id="shape-28" data-name="Ellipse 28">
+<ellipse cx="343" cy="200" rx="22" ry="22" fill="#0A0E27" stroke-width="2" stroke="#5B8DEF"/>
+</g>
+<g id="shape-29" data-name="TextBox 29">
+<rect x="332.3" y="195.1" width="21.4" height="22.4" fill="none" stroke="none"/>
+<text x="343" y="207" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#5B8DEF" font-weight="bold"><tspan fill="#5B8DEF" font-size="14" font-weight="bold">02</tspan></text>
+</g>
+<g id="shape-30" data-name="Rectangle 30">
+<rect x="258" y="244" width="170" height="356" rx="16" ry="16" fill="url(#ggrad5)" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</g>
+<g id="shape-31" data-name="Rectangle 31">
+<rect x="276" y="245" width="134" height="1" fill="url(#ggrad6)" stroke="none"/>
+</g>
+<g id="shape-34" data-name="Group 34">
+<g id="shape-32" data-name="Freeform 32">
+<path d="M 350.5 290 C 350.5 294.14 347.14 297.5 343 297.5 C 338.86 297.5 335.5 294.14 335.5 290 C 335.5 285.86 338.86 282.5 343 282.5 C 347.14 282.5 350.5 285.86 350.5 290 Z" fill="#5B8DEF" fill-opacity="0.2" stroke="none"/>
+</g>
+<g id="shape-33" data-name="Freeform 33">
+<path d="M 357.67 282.99 C 361.26 290.51 358.6 299.52 351.5 303.88 C 344.4 308.23 335.15 306.52 330.09 299.91 C 325.02 293.3 325.76 283.93 331.81 278.2 C 337.85 272.47 347.25 272.24 353.57 277.66 L 357.12 274.11 C 357.6 273.62 358.4 273.62 358.88 274.11 C 359.37 274.6 359.37 275.39 358.88 275.88 L 343.88 290.88 C 343.4 291.37 342.6 291.37 342.12 290.88 C 341.63 290.39 341.63 289.6 342.12 289.11 L 346.45 284.78 C 344.03 283.18 340.83 283.46 338.72 285.44 C 336.61 287.42 336.14 290.6 337.58 293.11 C 339.02 295.62 342.01 296.81 344.78 295.98 C 347.56 295.16 349.4 292.53 349.24 289.64 C 349.2 288.95 349.73 288.36 350.42 288.32 C 351.11 288.28 351.7 288.81 351.74 289.5 C 351.97 293.6 349.33 297.3 345.38 298.42 C 341.43 299.53 337.24 297.76 335.3 294.14 C 333.35 290.53 334.18 286.05 337.29 283.37 C 340.4 280.69 344.96 280.53 348.24 282.99 L 351.8 279.44 C 346.4 274.96 338.5 275.26 333.47 280.14 C 328.43 285.02 327.89 292.91 332.2 298.44 C 336.51 303.97 344.29 305.37 350.25 301.68 C 356.21 297.99 358.44 290.4 355.41 284.07 C 355.11 283.45 355.38 282.7 356 282.4 C 356.62 282.11 357.37 282.37 357.67 282.99 Z" fill="#5B8DEF" stroke="none"/>
+</g>
+</g>
+<g id="shape-35" data-name="TextBox 35">
+<rect x="297.73" y="330.7" width="90.54" height="28.8" fill="none" stroke="none"/>
+<text x="343" y="346" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#E8ECFF" font-weight="bold"><tspan fill="#E8ECFF" font-size="18" font-weight="bold">选择工具</tspan></text>
+</g>
+<g id="shape-36" data-name="Line 36">
+<path d="M 290 368 L 396 368" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.16"/>
+</g>
+<g id="shape-37" data-name="TextBox 37">
+<rect x="298.34" y="392.95" width="89.31" height="20.8" fill="none" stroke="none"/>
+<text x="343" y="404" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">schema 匹配</tspan></text>
+</g>
+<g id="shape-38" data-name="TextBox 38">
+<rect x="296.85" y="413.95" width="92.3" height="20.8" fill="none" stroke="none"/>
+<text x="343" y="425" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">描述向量检索</tspan></text>
+</g>
+<g id="shape-39" data-name="TextBox 39">
+<rect x="322.64" y="463.95" width="40.72" height="20.8" fill="none" stroke="none"/>
+<text x="343" y="475" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">输出:</tspan></text>
+</g>
+<g id="shape-40" data-name="TextBox 40">
+<rect x="296.8" y="486.1" width="92.4" height="22.4" fill="none" stroke="none"/>
+<text x="343" y="498" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="14" font-weight="bold">tool + args</tspan></text>
+</g>
+<g id="shape-41" data-name="Rectangle 41">
+<rect x="278" y="560" width="130" height="24" rx="12" ry="12" fill="#5B8DEF" fill-opacity="0.2" stroke-width="1" stroke="#5B8DEF" stroke-opacity="0.5"/>
+</g>
+<g id="shape-42" data-name="TextBox 42">
+<rect x="319.98" y="567.65" width="46.03" height="17.6" fill="none" stroke="none"/>
+<text x="343" y="577" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#5B8DEF" font-weight="bold"><tspan fill="#5B8DEF" font-size="11" font-weight="bold">SELECT</tspan></text>
+</g>
+</g>
+<g id="shape-59" data-name="Group 59">
+<g id="shape-44" data-name="Ellipse 44">
+<ellipse cx="541" cy="200" rx="22" ry="22" fill="#0A0E27" stroke-width="2" stroke="#A26BFA"/>
+</g>
+<g id="shape-45" data-name="TextBox 45">
+<rect x="530.3" y="195.1" width="21.4" height="22.4" fill="none" stroke="none"/>
+<text x="541" y="207" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#A26BFA" font-weight="bold"><tspan fill="#A26BFA" font-size="14" font-weight="bold">03</tspan></text>
+</g>
+<g id="shape-46" data-name="Rectangle 46">
+<rect x="456" y="244" width="170" height="356" rx="16" ry="16" fill="url(#ggrad7)" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</g>
+<g id="shape-47" data-name="Rectangle 47">
+<rect x="474" y="245" width="134" height="1" fill="url(#ggrad8)" stroke="none"/>
+</g>
+<g id="shape-50" data-name="Group 50">
+<g id="shape-48" data-name="Freeform 48">
+<path d="M 554.13 290.62 L 544.96 299.79 C 543.01 301.74 539.85 301.74 537.89 299.79 L 531.21 293.11 C 529.26 291.15 529.26 287.99 531.21 286.04 L 540.38 276.87 Z" fill="#A26BFA" fill-opacity="0.2" stroke="none"/>
+</g>
+<g id="shape-49" data-name="Freeform 49">
+<path d="M 558.13 280.37 C 557.9 280.13 557.58 280 557.25 280 C 556.92 280 556.6 280.13 556.37 280.37 L 551 285.73 L 545.27 280 L 550.63 274.63 C 551.12 274.15 551.12 273.35 550.63 272.87 C 550.15 272.38 549.35 272.38 548.87 272.87 L 543.5 278.23 L 539.38 274.12 C 538.9 273.63 538.1 273.63 537.62 274.12 C 537.13 274.6 537.13 275.4 537.62 275.88 L 538.61 276.88 L 530.33 285.16 C 529.15 286.33 528.5 287.92 528.5 289.58 C 528.5 291.23 529.15 292.82 530.33 294 L 532.78 296.45 L 525.12 304.12 C 524.63 304.6 524.63 305.4 525.12 305.88 C 525.6 306.37 526.4 306.37 526.88 305.88 L 534.55 298.21 L 537.01 300.67 C 538.18 301.84 539.77 302.5 541.43 302.5 C 543.09 302.5 544.68 301.84 545.85 300.67 L 554.13 292.39 L 555.12 293.38 C 555.61 293.87 556.4 293.87 556.89 293.38 C 557.38 292.89 557.38 292.1 556.89 291.61 L 552.77 287.5 L 558.13 282.13 C 558.37 281.9 558.5 281.58 558.5 281.25 C 558.5 280.92 558.37 280.6 558.13 280.37 Z M 544.08 298.91 C 543.38 299.61 542.42 300.01 541.43 300.01 C 540.43 300.01 539.48 299.61 538.78 298.91 L 532.09 292.22 C 531.39 291.52 530.99 290.57 530.99 289.57 C 530.99 288.58 531.39 287.62 532.09 286.92 L 540.38 278.64 L 552.36 290.62 Z" fill="#A26BFA" stroke="none"/>
+</g>
+</g>
+<g id="shape-51" data-name="TextBox 51">
+<rect x="495.73" y="330.7" width="90.54" height="28.8" fill="none" stroke="none"/>
+<text x="541" y="346" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#E8ECFF" font-weight="bold"><tspan fill="#E8ECFF" font-size="18" font-weight="bold">调用执行</tspan></text>
+</g>
+<g id="shape-52" data-name="Line 52">
+<path d="M 488 368 L 594 368" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.16"/>
+</g>
+<g id="shape-53" data-name="TextBox 53">
+<rect x="509.8" y="392.95" width="62.4" height="20.8" fill="none" stroke="none"/>
+<text x="541" y="404" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">超时控制</tspan></text>
+</g>
+<g id="shape-54" data-name="TextBox 54">
+<rect x="510.17" y="413.95" width="61.65" height="20.8" fill="none" stroke="none"/>
+<text x="541" y="425" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">幂等 key</tspan></text>
+</g>
+<g id="shape-55" data-name="TextBox 55">
+<rect x="520.64" y="463.95" width="40.72" height="20.8" fill="none" stroke="none"/>
+<text x="541" y="475" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">输出:</tspan></text>
+</g>
+<g id="shape-56" data-name="TextBox 56">
+<rect x="493.53" y="486.1" width="94.93" height="22.4" fill="none" stroke="none"/>
+<text x="541" y="498" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="14" font-weight="bold">raw_result</tspan></text>
+</g>
+<g id="shape-57" data-name="Rectangle 57">
+<rect x="476" y="560" width="130" height="24" rx="12" ry="12" fill="#A26BFA" fill-opacity="0.2" stroke-width="1" stroke="#A26BFA" stroke-opacity="0.5"/>
+</g>
+<g id="shape-58" data-name="TextBox 58">
+<rect x="514.33" y="567.65" width="53.34" height="17.6" fill="none" stroke="none"/>
+<text x="541" y="577" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#A26BFA" font-weight="bold"><tspan fill="#A26BFA" font-size="11" font-weight="bold">EXECUTE</tspan></text>
+</g>
+</g>
+<g id="shape-75" data-name="Group 75">
+<g id="shape-60" data-name="Ellipse 60">
+<ellipse cx="739" cy="200" rx="22" ry="22" fill="#0A0E27" stroke-width="2" stroke="#A26BFA"/>
+</g>
+<g id="shape-61" data-name="TextBox 61">
+<rect x="728.3" y="195.1" width="21.4" height="22.4" fill="none" stroke="none"/>
+<text x="739" y="207" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#A26BFA" font-weight="bold"><tspan fill="#A26BFA" font-size="14" font-weight="bold">04</tspan></text>
+</g>
+<g id="shape-62" data-name="Rectangle 62">
+<rect x="654" y="244" width="170" height="356" rx="16" ry="16" fill="url(#ggrad9)" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</g>
+<g id="shape-63" data-name="Rectangle 63">
+<rect x="672" y="245" width="134" height="1" fill="url(#ggrad10)" stroke="none"/>
+</g>
+<g id="shape-66" data-name="Group 66">
+<g id="shape-64" data-name="Freeform 64">
+<path d="M 754 290 C 754 298.28 747.28 305 739 305 C 730.72 305 724 298.28 724 290 C 724 281.72 730.72 275 739 275 C 747.28 275 754 281.72 754 290 Z" fill="#A26BFA" fill-opacity="0.2" stroke="none"/>
+</g>
+<g id="shape-65" data-name="Freeform 65">
+<path d="M 746.13 285.37 C 746.37 285.6 746.5 285.92 746.5 286.25 C 746.5 286.58 746.37 286.9 746.13 287.13 L 737.38 295.88 C 737.15 296.12 736.83 296.25 736.5 296.25 C 736.17 296.25 735.85 296.12 735.62 295.88 L 731.87 292.13 C 731.38 291.65 731.38 290.85 731.87 290.37 C 732.35 289.88 733.15 289.88 733.63 290.37 L 736.5 293.23 L 744.37 285.37 C 744.6 285.13 744.92 285 745.25 285 C 745.58 285 745.9 285.13 746.13 285.37 Z M 755.25 290 C 755.25 298.97 747.97 306.25 739 306.25 C 730.03 306.25 722.75 298.97 722.75 290 C 722.75 281.03 730.03 273.75 739 273.75 C 747.97 273.76 755.24 281.03 755.25 290 Z M 752.75 290 C 752.75 282.41 746.59 276.25 739 276.25 C 731.41 276.25 725.25 282.41 725.25 290 C 725.25 297.59 731.41 303.75 739 303.75 C 746.59 303.74 752.74 297.59 752.75 290 Z" fill="#A26BFA" stroke="none"/>
+</g>
+</g>
+<g id="shape-67" data-name="TextBox 67">
+<rect x="693.73" y="330.7" width="90.54" height="28.8" fill="none" stroke="none"/>
+<text x="739" y="346" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#E8ECFF" font-weight="bold"><tspan fill="#E8ECFF" font-size="18" font-weight="bold">验证返回</tspan></text>
+</g>
+<g id="shape-68" data-name="Line 68">
+<path d="M 686 368 L 792 368" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.16"/>
+</g>
+<g id="shape-69" data-name="TextBox 69">
+<rect x="691.35" y="392.95" width="95.29" height="20.8" fill="none" stroke="none"/>
+<text x="739" y="404" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">JSON schema</tspan></text>
+</g>
+<g id="shape-70" data-name="TextBox 70">
+<rect x="707.8" y="413.95" width="62.4" height="20.8" fill="none" stroke="none"/>
+<text x="739" y="425" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">业务规则</tspan></text>
+</g>
+<g id="shape-71" data-name="TextBox 71">
+<rect x="718.64" y="463.95" width="40.72" height="20.8" fill="none" stroke="none"/>
+<text x="739" y="475" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">输出:</tspan></text>
+</g>
+<g id="shape-72" data-name="TextBox 72">
+<rect x="694.49" y="486.1" width="89.02" height="22.4" fill="none" stroke="none"/>
+<text x="739" y="498" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="14" font-weight="bold">valid / fail</tspan></text>
+</g>
+<g id="shape-73" data-name="Rectangle 73">
+<rect x="674" y="560" width="130" height="24" rx="12" ry="12" fill="#A26BFA" fill-opacity="0.2" stroke-width="1" stroke="#A26BFA" stroke-opacity="0.5"/>
+</g>
+<g id="shape-74" data-name="TextBox 74">
+<rect x="710.34" y="567.65" width="57.32" height="17.6" fill="none" stroke="none"/>
+<text x="739" y="577" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#A26BFA" font-weight="bold"><tspan fill="#A26BFA" font-size="11" font-weight="bold">VALIDATE</tspan></text>
+</g>
+</g>
+<g id="shape-91" data-name="Group 91">
+<g id="shape-76" data-name="Ellipse 76">
+<ellipse cx="937" cy="200" rx="22" ry="22" fill="#0A0E27" stroke-width="2" stroke="#3DDDFC"/>
+</g>
+<g id="shape-77" data-name="TextBox 77">
+<rect x="926.3" y="195.1" width="21.4" height="22.4" fill="none" stroke="none"/>
+<text x="937" y="207" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="14" font-weight="bold">05</tspan></text>
+</g>
+<g id="shape-78" data-name="Rectangle 78">
+<rect x="852" y="244" width="170" height="356" rx="16" ry="16" fill="url(#ggrad11)" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</g>
+<g id="shape-79" data-name="Rectangle 79">
+<rect x="870" y="245" width="134" height="1" fill="url(#ggrad12)" stroke="none"/>
+</g>
+<g id="shape-82" data-name="Group 82">
+<g id="shape-80" data-name="Freeform 80">
+<path d="M 950.75 277.5 L 950.75 285 L 943.25 285 Z M 923.25 302.5 L 930.75 295 L 923.25 295 Z" fill="#3DDDFC" fill-opacity="0.2" stroke="none"/>
+</g>
+<g id="shape-81" data-name="Freeform 81">
+<path d="M 951.23 276.35 C 950.76 276.15 950.22 276.26 949.87 276.62 L 947.36 279.13 C 944.21 276.42 940.65 275 937 275 C 930.31 275 926.28 278.95 926.12 279.12 C 925.63 279.6 925.63 280.4 926.12 280.88 C 926.6 281.37 927.4 281.37 927.88 280.88 C 927.92 280.85 931.33 277.5 937 277.5 C 940.62 277.5 943.55 279.2 945.58 280.9 L 942.37 284.12 C 942.01 284.47 941.9 285.01 942.09 285.48 C 942.29 285.95 942.74 286.25 943.25 286.25 L 950.75 286.25 C 951.44 286.25 952 285.69 952 285 L 952 277.5 C 952 276.99 951.7 276.54 951.23 276.35 Z M 949.5 283.75 L 946.27 283.75 L 949.5 280.52 Z M 946.12 299.12 C 946.08 299.15 942.67 302.5 937 302.5 C 933.38 302.5 930.45 300.8 928.42 299.1 L 931.63 295.88 C 931.99 295.53 932.1 294.99 931.91 294.52 C 931.71 294.05 931.26 293.75 930.75 293.75 L 923.25 293.75 C 922.56 293.75 922 294.31 922 295 L 922 302.5 C 922 303.01 922.3 303.46 922.77 303.66 C 923.24 303.85 923.78 303.74 924.13 303.38 L 926.64 300.87 C 929.79 303.58 933.35 305 937 305 C 943.69 305 947.72 301.05 947.88 300.88 C 948.37 300.4 948.37 299.6 947.88 299.12 C 947.4 298.63 946.6 298.63 946.12 299.12 Z M 924.5 296.25 L 927.73 296.25 L 924.5 299.48 Z" fill="#3DDDFC" stroke="none"/>
+</g>
+</g>
+<g id="shape-83" data-name="TextBox 83">
+<rect x="891.73" y="330.7" width="90.54" height="28.8" fill="none" stroke="none"/>
+<text x="937" y="346" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#E8ECFF" font-weight="bold"><tspan fill="#E8ECFF" font-size="18" font-weight="bold">重试回退</tspan></text>
+</g>
+<g id="shape-84" data-name="Line 84">
+<path d="M 884 368 L 990 368" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.16"/>
+</g>
+<g id="shape-85" data-name="TextBox 85">
+<rect x="905.8" y="392.95" width="62.4" height="20.8" fill="none" stroke="none"/>
+<text x="937" y="404" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">指数退避</tspan></text>
+</g>
+<g id="shape-86" data-name="TextBox 86">
+<rect x="905.8" y="413.95" width="62.4" height="20.8" fill="none" stroke="none"/>
+<text x="937" y="425" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">降级路径</tspan></text>
+</g>
+<g id="shape-87" data-name="TextBox 87">
+<rect x="916.64" y="463.95" width="40.72" height="20.8" fill="none" stroke="none"/>
+<text x="937" y="475" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#A8B0D0"><tspan fill="#A8B0D0" font-size="13">输出:</tspan></text>
+</g>
+<g id="shape-88" data-name="TextBox 88">
+<rect x="869.67" y="486.1" width="134.66" height="22.4" fill="none" stroke="none"/>
+<text x="937" y="498" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="14" font-weight="bold">retry / fallback</tspan></text>
+</g>
+<g id="shape-89" data-name="Rectangle 89">
+<rect x="872" y="560" width="130" height="24" rx="12" ry="12" fill="#3DDDFC" fill-opacity="0.2" stroke-width="1" stroke="#3DDDFC" stroke-opacity="0.5"/>
+</g>
+<g id="shape-90" data-name="TextBox 90">
+<rect x="909" y="567.65" width="55.99" height="17.6" fill="none" stroke="none"/>
+<text x="937" y="577" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#3DDDFC" font-weight="bold"><tspan fill="#3DDDFC" font-size="11" font-weight="bold">RECOVER</tspan></text>
+</g>
+</g>
+<g id="shape-107" data-name="Group 107">
+<g id="shape-92" data-name="Ellipse 92">
+<ellipse cx="1135" cy="200" rx="22" ry="22" fill="#0A0E27" stroke-width="2" stroke="#4ADE80"/>
+</g>
+<g id="shape-93" data-name="TextBox 93">
+<rect x="1124.3" y="195.1" width="21.4" height="22.4" fill="none" stroke="none"/>
+<text x="1135" y="207" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#4ADE80" font-weight="bold"><tspan fill="#4ADE80" font-size="14" font-weight="bold">06</tspan></text>
+</g>
+<g id="shape-94" data-name="Rectangle 94">
+<rect x="1050" y="244" width="170" height="356" rx="16" ry="16" fill="url(#ggrad13)" stroke-width="1" stroke="#4ADE80" stroke-opacity="0.55"/>
+</g>
+<g id="shape-95" data-name="Rectangle 95">
+<rect x="1068" y="245" width="134" height="1" fill="url(#ggrad14)" stroke="none"/>
+</g>
+<g id="shape-98" data-name="Group 98">
+<g id="shape-96" data-name="Freeform 96">
+<path d="M 1150 282.5 L 1135 291.25 L 1120 282.5 L 1135 273.75 Z" fill="#4ADE80" fill-opacity="0.2" stroke="none"/>
+</g>
+<g id="shape-97" data-name="Freeform 97">
+<path d="M 1151.08 296.87 C 1151.42 297.47 1151.22 298.23 1150.62 298.58 L 1135.62 307.33 C 1135.24 307.56 1134.75 307.56 1134.37 307.33 L 1119.37 298.58 C 1118.78 298.23 1118.59 297.47 1118.93 296.88 C 1119.27 296.29 1120.03 296.08 1120.62 296.42 L 1135 304.8 L 1149.38 296.42 C 1149.97 296.08 1150.73 296.28 1151.08 296.87 Z M 1149.38 288.92 L 1135 297.3 L 1120.62 288.92 C 1120.03 288.63 1119.32 288.84 1118.99 289.41 C 1118.66 289.98 1118.83 290.71 1119.38 291.08 L 1134.38 299.83 C 1134.76 300.06 1135.25 300.06 1135.63 299.83 L 1150.63 291.08 C 1151.03 290.86 1151.27 290.44 1151.27 289.99 C 1151.27 289.54 1151.03 289.13 1150.63 288.9 C 1150.24 288.68 1149.76 288.69 1149.38 288.92 Z M 1118.75 282.5 C 1118.75 282.05 1118.99 281.64 1119.38 281.42 L 1134.38 272.67 C 1134.76 272.44 1135.25 272.44 1135.63 272.67 L 1150.63 281.42 C 1151.02 281.64 1151.25 282.06 1151.25 282.5 C 1151.25 282.94 1151.02 283.36 1150.63 283.58 L 1135.63 292.33 C 1135.25 292.56 1134.76 292.56 1134.38 292.33 L 1119.38 283.58 C 1118.99 283.36 1118.75 282.95 1118.75 282.5 Z M 1122.48 282.5 L 1135 289.8 L 1147.52 282.5 L 1135 275.2 Z" fill="#4ADE80" stroke="none"/>
+</g>
+</g>
+<g id="shape-99" data-name="TextBox 99">
+<rect x="1089.73" y="330.7" width="90.54" height="28.8" fill="none" stroke="none"/>
+<text x="1135" y="346" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="18" font-weight="bold">结果汇总</tspan></text>
+</g>
+<g id="shape-100" data-name="Line 100">
+<path d="M 1082 368 L 1188 368" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-opacity="0.18"/>
+</g>
+<g id="shape-101" data-name="TextBox 101">
+<rect x="1103.8" y="392.95" width="62.4" height="20.8" fill="none" stroke="none"/>
+<text x="1135" y="404" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#E8ECFF"><tspan fill="#E8ECFF" font-size="13">多轮聚合</tspan></text>
+</g>
+<g id="shape-102" data-name="TextBox 102">
+<rect x="1081.38" y="413.95" width="107.25" height="20.8" fill="none" stroke="none"/>
+<text x="1135" y="425" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#E8ECFF"><tspan fill="#E8ECFF" font-size="13">引用与可解释化</tspan></text>
+</g>
+<g id="shape-103" data-name="TextBox 103">
+<rect x="1114.64" y="463.95" width="40.72" height="20.8" fill="none" stroke="none"/>
+<text x="1135" y="475" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#E8ECFF"><tspan fill="#E8ECFF" font-size="13">输出:</tspan></text>
+</g>
+<g id="shape-104" data-name="TextBox 104">
+<rect x="1082.46" y="486.1" width="105.08" height="22.4" fill="none" stroke="none"/>
+<text x="1135" y="498" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#4ADE80" font-weight="bold"><tspan fill="#4ADE80" font-size="14" font-weight="bold">final answer</tspan></text>
+</g>
+<g id="shape-105" data-name="Rectangle 105">
+<rect x="1070" y="560" width="130" height="24" rx="12" ry="12" fill="#4ADE80" fill-opacity="0.25" stroke-width="1" stroke="#4ADE80" stroke-opacity="0.7"/>
+</g>
+<g id="shape-106" data-name="TextBox 106">
+<rect x="1109.99" y="567.65" width="50.02" height="17.6" fill="none" stroke="none"/>
+<text x="1135" y="577" text-anchor="middle" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#4ADE80" font-weight="bold"><tspan fill="#4ADE80" font-size="11" font-weight="bold">DELIVER</tspan></text>
+</g>
+</g>
+<g id="shape-110" data-name="Group 110">
+<g id="shape-108" data-name="TextBox 108">
+<rect x="58.7" y="682.95" width="209.02" height="20.8" fill="none" stroke="none"/>
+<text x="58.7" y="694" text-anchor="start" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#6B7299" font-weight="bold"><tspan fill="#6B7299" font-size="13" font-weight="bold">每步都可观测 · 每步都有回退</tspan></text>
+</g>
+<g id="shape-109" data-name="TextBox 109">
+<rect x="1170.04" y="682.95" width="51.26" height="20.8" fill="none" stroke="none"/>
+<text x="1221.3" y="694" text-anchor="end" xml:space="preserve" font-family="&quot;Segoe UI&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#6B7299" font-weight="bold"><tspan fill="#6B7299" font-size="13" font-weight="bold">06 / 12</tspan></text>
+</g>
+</g></svg>
